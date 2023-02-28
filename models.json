@@ -1,0 +1,8002 @@
+[
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 10,
+      "Rotor_diameter_i_meter": 7.1,
+      "Navhøjde_i_meter": 18,
+      "Fabrikat": "Zenia Energy",
+      "Model": "Zenia ZA 10"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 10,
+      "Rotor_diameter_i_meter": 7.1,
+      "Navhøjde_i_meter": 18,
+      "Fabrikat": "Zenia Energy",
+      "Model": "ZA10"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 150,
+      "Rotor_diameter_i_meter": 28,
+      "Navhøjde_i_meter": 41,
+      "Fabrikat": "Wind World",
+      "Model": "WW 2800_150"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 150,
+      "Rotor_diameter_i_meter": 28,
+      "Navhøjde_i_meter": 31,
+      "Fabrikat": "Wind World",
+      "Model": "WW 2800_150"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 150,
+      "Rotor_diameter_i_meter": 27,
+      "Navhøjde_i_meter": 31,
+      "Fabrikat": "Wind World",
+      "Model": "WW 2700_150"
+    },
+    {
+      "Antal_i_DK": 4,
+      "Kapacitet_i_kw": 180,
+      "Rotor_diameter_i_meter": 23.2,
+      "Navhøjde_i_meter": 30,
+      "Fabrikat": "Wind World",
+      "Model": "WW 2320_180"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 160,
+      "Rotor_diameter_i_meter": 23.2,
+      "Navhøjde_i_meter": 30,
+      "Fabrikat": "Wind World",
+      "Model": "WW 2320_160"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 120,
+      "Rotor_diameter_i_meter": 23.2,
+      "Navhøjde_i_meter": 30,
+      "Fabrikat": "Wind World",
+      "Model": "WW 2320_120"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 99,
+      "Rotor_diameter_i_meter": 33,
+      "Navhøjde_i_meter": 22.5,
+      "Fabrikat": "Wincon",
+      "Model": "W 99 XT"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 755,
+      "Rotor_diameter_i_meter": 48,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "Wincon",
+      "Model": "W 755/48"
+    },
+    {
+      "Antal_i_DK": 9,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 45,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "Wincon",
+      "Model": "W 600/45"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 42,
+      "Navhøjde_i_meter": 35,
+      "Fabrikat": "Wind World",
+      "Model": "W 600"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 52,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "Wind World",
+      "Model": "W 5200_750"
+    },
+    {
+      "Antal_i_DK": 5,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 52,
+      "Navhøjde_i_meter": 44,
+      "Fabrikat": "Wind World",
+      "Model": "W 4800_750 OSC"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 48,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "Wind World",
+      "Model": "W 4800_750"
+    },
+    {
+      "Antal_i_DK": 11,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 42,
+      "Navhøjde_i_meter": 43.5,
+      "Fabrikat": "Wind World",
+      "Model": "W 4200/600_150"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 42,
+      "Navhøjde_i_meter": 45.5,
+      "Fabrikat": "Wind World",
+      "Model": "W 4200/600_150"
+    },
+    {
+      "Antal_i_DK": 15,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 42.3,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "Wind World",
+      "Model": "W 4200_600"
+    },
+    {
+      "Antal_i_DK": 8,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 42,
+      "Navhøjde_i_meter": 43.5,
+      "Fabrikat": "Wind World",
+      "Model": "W 4200_600"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 42,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "Wind World",
+      "Model": "W 4200_600"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 42,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "Wind World",
+      "Model": "W 4200_150"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 42,
+      "Navhøjde_i_meter": 41.5,
+      "Fabrikat": "Wind World",
+      "Model": "W 4200"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 500,
+      "Rotor_diameter_i_meter": 37.3,
+      "Navhøjde_i_meter": 35,
+      "Fabrikat": "Wind World",
+      "Model": "W 3700_500 "
+    },
+    {
+      "Antal_i_DK": 6,
+      "Kapacitet_i_kw": 500,
+      "Rotor_diameter_i_meter": 37,
+      "Navhøjde_i_meter": 35,
+      "Fabrikat": "Wind World",
+      "Model": "W 3700_500"
+    },
+    {
+      "Antal_i_DK": 4,
+      "Kapacitet_i_kw": 500,
+      "Rotor_diameter_i_meter": 37,
+      "Navhøjde_i_meter": 41.5,
+      "Fabrikat": "Wind World",
+      "Model": "W 3700_500"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 500,
+      "Rotor_diameter_i_meter": 37.3,
+      "Navhøjde_i_meter": 35,
+      "Fabrikat": "Wind World",
+      "Model": "W 3700_500"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 550,
+      "Rotor_diameter_i_meter": 37,
+      "Navhøjde_i_meter": 41.5,
+      "Fabrikat": "Wind World",
+      "Model": "W 3700_500"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 550,
+      "Rotor_diameter_i_meter": 37.3,
+      "Navhøjde_i_meter": 41.5,
+      "Fabrikat": "Wind World",
+      "Model": "W 3700"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 500,
+      "Rotor_diameter_i_meter": 37,
+      "Navhøjde_i_meter": 35,
+      "Fabrikat": "Wind World",
+      "Model": "W 3700"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 550,
+      "Rotor_diameter_i_meter": 0.1,
+      "Navhøjde_i_meter": 40,
+      "Fabrikat": "Wind World",
+      "Model": "W 3700"
+    },
+    {
+      "Antal_i_DK": 8,
+      "Kapacitet_i_kw": 250,
+      "Rotor_diameter_i_meter": 29.2,
+      "Navhøjde_i_meter": 31.5,
+      "Fabrikat": "Wind World",
+      "Model": "W 2920_250"
+    },
+    {
+      "Antal_i_DK": 7,
+      "Kapacitet_i_kw": 150,
+      "Rotor_diameter_i_meter": 28,
+      "Navhøjde_i_meter": 31,
+      "Fabrikat": "Wind World",
+      "Model": "W 2800_150"
+    },
+    {
+      "Antal_i_DK": 6,
+      "Kapacitet_i_kw": 150,
+      "Rotor_diameter_i_meter": 28,
+      "Navhøjde_i_meter": 30,
+      "Fabrikat": "Wind World",
+      "Model": "W 2800_150"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 150,
+      "Rotor_diameter_i_meter": 28,
+      "Navhøjde_i_meter": 30.2,
+      "Fabrikat": "Wind World",
+      "Model": "W 2800_150"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 150,
+      "Rotor_diameter_i_meter": 27,
+      "Navhøjde_i_meter": 30,
+      "Fabrikat": "Wind World",
+      "Model": "W 2800_150"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 150,
+      "Rotor_diameter_i_meter": 22,
+      "Navhøjde_i_meter": 31,
+      "Fabrikat": "NEG Micon",
+      "Model": "W 2800 150"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 150,
+      "Rotor_diameter_i_meter": 23.2,
+      "Navhøjde_i_meter": 31,
+      "Fabrikat": "Wind World",
+      "Model": "W 2800"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 150,
+      "Rotor_diameter_i_meter": 28,
+      "Navhøjde_i_meter": 30,
+      "Fabrikat": "Wind World",
+      "Model": "W 2800"
+    },
+    {
+      "Antal_i_DK": 4,
+      "Kapacitet_i_kw": 150,
+      "Rotor_diameter_i_meter": 28,
+      "Navhøjde_i_meter": 31,
+      "Fabrikat": "Wind World",
+      "Model": "W 2700_150"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 150,
+      "Rotor_diameter_i_meter": 27,
+      "Navhøjde_i_meter": 30,
+      "Fabrikat": "Wind World",
+      "Model": "W 2700_150"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 150,
+      "Rotor_diameter_i_meter": 27,
+      "Navhøjde_i_meter": 32,
+      "Fabrikat": "Wind World",
+      "Model": "W 2700_150"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 150,
+      "Rotor_diameter_i_meter": 28,
+      "Navhøjde_i_meter": 30,
+      "Fabrikat": "Wind World",
+      "Model": "W 2700"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 150,
+      "Rotor_diameter_i_meter": 25,
+      "Navhøjde_i_meter": 30,
+      "Fabrikat": "Wincon",
+      "Model": "W 2500/150"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 150,
+      "Rotor_diameter_i_meter": 25,
+      "Navhøjde_i_meter": 31,
+      "Fabrikat": "Wind World",
+      "Model": "W 2500_150"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 150,
+      "Rotor_diameter_i_meter": 25,
+      "Navhøjde_i_meter": 30,
+      "Fabrikat": "Wind World",
+      "Model": "W 2500_150"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 250,
+      "Rotor_diameter_i_meter": 24,
+      "Navhøjde_i_meter": 28.7,
+      "Fabrikat": "Wincon",
+      "Model": "W 250/29"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 100,
+      "Rotor_diameter_i_meter": 24.6,
+      "Navhøjde_i_meter": 31,
+      "Fabrikat": "Wind World",
+      "Model": "W 2460_100"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 150,
+      "Rotor_diameter_i_meter": 23.2,
+      "Navhøjde_i_meter": 30.3,
+      "Fabrikat": "Wind World",
+      "Model": "W 2320_160"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 160,
+      "Rotor_diameter_i_meter": 23,
+      "Navhøjde_i_meter": 30,
+      "Fabrikat": "Wind World",
+      "Model": "W 2320_160"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 150,
+      "Rotor_diameter_i_meter": 22.3,
+      "Navhøjde_i_meter": 30,
+      "Fabrikat": "Wind World",
+      "Model": "W 2320_150"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 150,
+      "Rotor_diameter_i_meter": 23.2,
+      "Navhøjde_i_meter": 30.3,
+      "Fabrikat": "Wind World",
+      "Model": "W 2320_150"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 160,
+      "Rotor_diameter_i_meter": 23,
+      "Navhøjde_i_meter": 30,
+      "Fabrikat": "Wind World",
+      "Model": "W 2320"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 200,
+      "Rotor_diameter_i_meter": 23,
+      "Navhøjde_i_meter": 30,
+      "Fabrikat": "Wind World",
+      "Model": "W 2320"
+    },
+    {
+      "Antal_i_DK": 9,
+      "Kapacitet_i_kw": 200,
+      "Rotor_diameter_i_meter": 26,
+      "Navhøjde_i_meter": 30,
+      "Fabrikat": "Wincon",
+      "Model": "W 200/26"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 200,
+      "Rotor_diameter_i_meter": 24,
+      "Navhøjde_i_meter": 28.5,
+      "Fabrikat": "Wincon",
+      "Model": "W 200/26"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 200,
+      "Rotor_diameter_i_meter": 26,
+      "Navhøjde_i_meter": 29,
+      "Fabrikat": "Wincon",
+      "Model": "W 200/26"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 200,
+      "Rotor_diameter_i_meter": 0.1,
+      "Navhøjde_i_meter": 30,
+      "Fabrikat": "Wincon",
+      "Model": "W 200/25.4"
+    },
+    {
+      "Antal_i_DK": 6,
+      "Kapacitet_i_kw": 200,
+      "Rotor_diameter_i_meter": 26,
+      "Navhøjde_i_meter": 30,
+      "Fabrikat": "Wincon",
+      "Model": "W 200"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 200,
+      "Rotor_diameter_i_meter": 24,
+      "Navhøjde_i_meter": 28,
+      "Fabrikat": "Wincon",
+      "Model": "W 200"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 200,
+      "Rotor_diameter_i_meter": 24,
+      "Navhøjde_i_meter": 29,
+      "Fabrikat": "Wincon",
+      "Model": "W 200"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 200,
+      "Rotor_diameter_i_meter": 26,
+      "Navhøjde_i_meter": 25,
+      "Fabrikat": "Wincon",
+      "Model": "W 200"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 150,
+      "Rotor_diameter_i_meter": 22,
+      "Navhøjde_i_meter": 31,
+      "Fabrikat": "Vindsyssel",
+      "Model": "VS 150 DK 22"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 150,
+      "Rotor_diameter_i_meter": 0.1,
+      "Navhøjde_i_meter": 0.1,
+      "Fabrikat": "Vindsyssel",
+      "Model": "VS 150"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 660,
+      "Rotor_diameter_i_meter": 47,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "VMP_330_690V_50Hz"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 130,
+      "Rotor_diameter_i_meter": 19,
+      "Navhøjde_i_meter": 31,
+      "Fabrikat": "Windmatic",
+      "Model": "VM 20 S"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 99,
+      "Rotor_diameter_i_meter": 19,
+      "Navhøjde_i_meter": 30,
+      "Fabrikat": "Windmatic",
+      "Model": "VM 19 S"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 75,
+      "Rotor_diameter_i_meter": 17,
+      "Navhøjde_i_meter": 16.5,
+      "Fabrikat": "Windmatic",
+      "Model": "VM 17 S"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 75,
+      "Rotor_diameter_i_meter": 17,
+      "Navhøjde_i_meter": 23,
+      "Fabrikat": "Windmatic",
+      "Model": "VM 17 S"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 55,
+      "Rotor_diameter_i_meter": 28,
+      "Navhøjde_i_meter": 20,
+      "Fabrikat": "Windmatic",
+      "Model": "VM 17"
+    },
+    {
+      "Antal_i_DK": 45,
+      "Kapacitet_i_kw": 25,
+      "Rotor_diameter_i_meter": 13,
+      "Navhøjde_i_meter": 18,
+      "Fabrikat": "HSWind Aps",
+      "Model": "Viking 25"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 25,
+      "Rotor_diameter_i_meter": 10,
+      "Navhøjde_i_meter": 18,
+      "Fabrikat": "HSWind Aps",
+      "Model": "Viking 25"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 25,
+      "Rotor_diameter_i_meter": 12,
+      "Navhøjde_i_meter": 18,
+      "Fabrikat": "HSWind Aps",
+      "Model": "Viking 25"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 25,
+      "Rotor_diameter_i_meter": 13,
+      "Navhøjde_i_meter": 24,
+      "Fabrikat": "HSWind Aps",
+      "Model": "Viking 25"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 25,
+      "Rotor_diameter_i_meter": 13,
+      "Navhøjde_i_meter": 25,
+      "Fabrikat": "HSWind Aps",
+      "Model": "Viking 25"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 10,
+      "Rotor_diameter_i_meter": 13,
+      "Navhøjde_i_meter": 18,
+      "Fabrikat": "HSWind Aps",
+      "Model": "Viking 10VS"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 8000,
+      "Rotor_diameter_i_meter": 164,
+      "Navhøjde_i_meter": 118,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V164_8MW"
+    },
+    {
+      "Antal_i_DK": 49,
+      "Kapacitet_i_kw": 8300,
+      "Rotor_diameter_i_meter": 164,
+      "Navhøjde_i_meter": 105,
+      "Fabrikat": "MHI Vestas Offshore Wind A/S",
+      "Model": "V164_8.0MW/8.3MW"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 8400,
+      "Rotor_diameter_i_meter": 164,
+      "Navhøjde_i_meter": 118,
+      "Fabrikat": "MHI Vestas Offshore Wind A/S",
+      "Model": "V164_8.0MW/8.3MW"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 9500,
+      "Rotor_diameter_i_meter": 174,
+      "Navhøjde_i_meter": 130,
+      "Fabrikat": "MHI Vestas Offshore Wind A/S",
+      "Model": "V164_8.0MW/8.3MW"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 5600,
+      "Rotor_diameter_i_meter": 162,
+      "Navhøjde_i_meter": 119,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V162_5.6 MW"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 75,
+      "Rotor_diameter_i_meter": 16,
+      "Navhøjde_i_meter": 24,
+      "Fabrikat": "Nordex",
+      "Model": "V16_75"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 5600,
+      "Rotor_diameter_i_meter": 150,
+      "Navhøjde_i_meter": 125,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V150_5.6 MW"
+    },
+    {
+      "Antal_i_DK": 9,
+      "Kapacitet_i_kw": 4200,
+      "Rotor_diameter_i_meter": 136,
+      "Navhøjde_i_meter": 82,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V136_4.2 MW"
+    },
+    {
+      "Antal_i_DK": 49,
+      "Kapacitet_i_kw": 3600,
+      "Rotor_diameter_i_meter": 126,
+      "Navhøjde_i_meter": 87,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V126_3.6 MW"
+    },
+    {
+      "Antal_i_DK": 9,
+      "Kapacitet_i_kw": 3600,
+      "Rotor_diameter_i_meter": 126,
+      "Navhøjde_i_meter": 150,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V126_3.6 MW"
+    },
+    {
+      "Antal_i_DK": 7,
+      "Kapacitet_i_kw": 3600,
+      "Rotor_diameter_i_meter": 126,
+      "Navhøjde_i_meter": 77,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V126_3.6 MW"
+    },
+    {
+      "Antal_i_DK": 12,
+      "Kapacitet_i_kw": 3600,
+      "Rotor_diameter_i_meter": 126,
+      "Navhøjde_i_meter": 87,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V126_3.45"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 3.45,
+      "Rotor_diameter_i_meter": 126,
+      "Navhøjde_i_meter": 87,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V126_3.45"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 3450,
+      "Rotor_diameter_i_meter": 126,
+      "Navhøjde_i_meter": 117,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V126_3.45"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 2200,
+      "Rotor_diameter_i_meter": 120,
+      "Navhøjde_i_meter": 89.5,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V120_2.2 MW"
+    },
+    {
+      "Antal_i_DK": 43,
+      "Kapacitet_i_kw": 3600,
+      "Rotor_diameter_i_meter": 117,
+      "Navhøjde_i_meter": 91.5,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V117_3.6 MW"
+    },
+    {
+      "Antal_i_DK": 13,
+      "Kapacitet_i_kw": 3600,
+      "Rotor_diameter_i_meter": 117,
+      "Navhøjde_i_meter": 91,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V117_3.6 MW"
+    },
+    {
+      "Antal_i_DK": 5,
+      "Kapacitet_i_kw": 3.6,
+      "Rotor_diameter_i_meter": 117,
+      "Navhøjde_i_meter": 92,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V117_3.6 MW"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 3600,
+      "Rotor_diameter_i_meter": 117,
+      "Navhøjde_i_meter": 91.4,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V117_3.6 MW"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 3600,
+      "Rotor_diameter_i_meter": 117,
+      "Navhøjde_i_meter": 11.5,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V117_3.6 MW"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 3.6,
+      "Rotor_diameter_i_meter": 117,
+      "Navhøjde_i_meter": 92,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V117_3.6 MW"
+    },
+    {
+      "Antal_i_DK": 20,
+      "Kapacitet_i_kw": 3450,
+      "Rotor_diameter_i_meter": 117,
+      "Navhøjde_i_meter": 91.5,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V117_3.45 MW"
+    },
+    {
+      "Antal_i_DK": 10,
+      "Kapacitet_i_kw": 3450,
+      "Rotor_diameter_i_meter": 117,
+      "Navhøjde_i_meter": 91,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V117_3.45 MW"
+    },
+    {
+      "Antal_i_DK": 5,
+      "Kapacitet_i_kw": 3.45,
+      "Rotor_diameter_i_meter": 117,
+      "Navhøjde_i_meter": 92,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V117_3.45 MW"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 3450,
+      "Rotor_diameter_i_meter": 112,
+      "Navhøjde_i_meter": 84,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V117_3.45 MW"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 3450,
+      "Rotor_diameter_i_meter": 117,
+      "Navhøjde_i_meter": 91.2,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V117_3.45 MW"
+    },
+    {
+      "Antal_i_DK": 7,
+      "Kapacitet_i_kw": 3300,
+      "Rotor_diameter_i_meter": 117,
+      "Navhøjde_i_meter": 91.5,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V117_3.3 MW"
+    },
+    {
+      "Antal_i_DK": 5,
+      "Kapacitet_i_kw": 3450,
+      "Rotor_diameter_i_meter": 112,
+      "Navhøjde_i_meter": 84,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V112_3.45MW"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 3300,
+      "Rotor_diameter_i_meter": 112,
+      "Navhøjde_i_meter": 94,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V112_3.45MW"
+    },
+    {
+      "Antal_i_DK": 28,
+      "Kapacitet_i_kw": 3300,
+      "Rotor_diameter_i_meter": 112,
+      "Navhøjde_i_meter": 94,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V112_3.3MW"
+    },
+    {
+      "Antal_i_DK": 15,
+      "Kapacitet_i_kw": 3450,
+      "Rotor_diameter_i_meter": 112,
+      "Navhøjde_i_meter": 84,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V112_3.3MW"
+    },
+    {
+      "Antal_i_DK": 5,
+      "Kapacitet_i_kw": 3300,
+      "Rotor_diameter_i_meter": 117,
+      "Navhøjde_i_meter": 91.5,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V112_3.3MW"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 3300,
+      "Rotor_diameter_i_meter": 112,
+      "Navhøjde_i_meter": 84,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V112_3.3MW"
+    },
+    {
+      "Antal_i_DK": 33,
+      "Kapacitet_i_kw": 3075,
+      "Rotor_diameter_i_meter": 112,
+      "Navhøjde_i_meter": 94,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V112_3.0MW"
+    },
+    {
+      "Antal_i_DK": 14,
+      "Kapacitet_i_kw": 3075,
+      "Rotor_diameter_i_meter": 112,
+      "Navhøjde_i_meter": 84,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V112_3.0MW"
+    },
+    {
+      "Antal_i_DK": 7,
+      "Kapacitet_i_kw": 3075,
+      "Rotor_diameter_i_meter": 112,
+      "Navhøjde_i_meter": 85,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V112_3.0MW"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 3075,
+      "Rotor_diameter_i_meter": 112,
+      "Navhøjde_i_meter": 88,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V112_3.0MW"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 3450,
+      "Rotor_diameter_i_meter": 112,
+      "Navhøjde_i_meter": 84,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V112_3.0MW"
+    },
+    {
+      "Antal_i_DK": 8,
+      "Kapacitet_i_kw": 2200,
+      "Rotor_diameter_i_meter": 100,
+      "Navhøjde_i_meter": 75,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V100_2.2 MW"
+    },
+    {
+      "Antal_i_DK": 21,
+      "Kapacitet_i_kw": 2200,
+      "Rotor_diameter_i_meter": 100,
+      "Navhøjde_i_meter": 72,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V100_2.0"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 2000,
+      "Rotor_diameter_i_meter": 100,
+      "Navhøjde_i_meter": 80,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V100_2.0"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 10,
+      "Rotor_diameter_i_meter": 13,
+      "Navhøjde_i_meter": 18.2,
+      "Fabrikat": "CIRKEL Energi",
+      "Model": "V/12M/S"
+    },
+    {
+      "Antal_i_DK": 61,
+      "Kapacitet_i_kw": 3000,
+      "Rotor_diameter_i_meter": 90,
+      "Navhøjde_i_meter": 80,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 90_3 MW"
+    },
+    {
+      "Antal_i_DK": 17,
+      "Kapacitet_i_kw": 3000,
+      "Rotor_diameter_i_meter": 90,
+      "Navhøjde_i_meter": 80,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 90 3"
+    },
+    {
+      "Antal_i_DK": 13,
+      "Kapacitet_i_kw": 2000,
+      "Rotor_diameter_i_meter": 90,
+      "Navhøjde_i_meter": 80,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 90 2"
+    },
+    {
+      "Antal_i_DK": 7,
+      "Kapacitet_i_kw": 2000,
+      "Rotor_diameter_i_meter": 90,
+      "Navhøjde_i_meter": 106.5,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 90 2"
+    },
+    {
+      "Antal_i_DK": 4,
+      "Kapacitet_i_kw": 1800,
+      "Rotor_diameter_i_meter": 90,
+      "Navhøjde_i_meter": 80,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 90 1.8"
+    },
+    {
+      "Antal_i_DK": 8,
+      "Kapacitet_i_kw": 2000,
+      "Rotor_diameter_i_meter": 80,
+      "Navhøjde_i_meter": 67,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 80_2 MW VCS"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 2000,
+      "Rotor_diameter_i_meter": 80,
+      "Navhøjde_i_meter": 78,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 80_2 MW VCS"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 2000,
+      "Rotor_diameter_i_meter": 80,
+      "Navhøjde_i_meter": 80,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 80_2 MW VCS"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 2000,
+      "Rotor_diameter_i_meter": 80,
+      "Navhøjde_i_meter": 60,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 80_2 MW VCS"
+    },
+    {
+      "Antal_i_DK": 18,
+      "Kapacitet_i_kw": 2000,
+      "Rotor_diameter_i_meter": 80,
+      "Navhøjde_i_meter": 60,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 80_2 MW"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 2000,
+      "Rotor_diameter_i_meter": 80,
+      "Navhøjde_i_meter": 67,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 80_2 MW"
+    },
+    {
+      "Antal_i_DK": 9,
+      "Kapacitet_i_kw": 2000,
+      "Rotor_diameter_i_meter": 80,
+      "Navhøjde_i_meter": 67,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 80 2"
+    },
+    {
+      "Antal_i_DK": 7,
+      "Kapacitet_i_kw": 2000,
+      "Rotor_diameter_i_meter": 80,
+      "Navhøjde_i_meter": 60,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 80 2"
+    },
+    {
+      "Antal_i_DK": 6,
+      "Kapacitet_i_kw": 2000,
+      "Rotor_diameter_i_meter": 80,
+      "Navhøjde_i_meter": 78,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 80 2"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 2000,
+      "Rotor_diameter_i_meter": 80,
+      "Navhøjde_i_meter": 59.9,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 80 2"
+    },
+    {
+      "Antal_i_DK": 80,
+      "Kapacitet_i_kw": 2000,
+      "Rotor_diameter_i_meter": 80,
+      "Navhøjde_i_meter": 70,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 80"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 2000,
+      "Rotor_diameter_i_meter": 80,
+      "Navhøjde_i_meter": 78,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 80"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 660,
+      "Rotor_diameter_i_meter": 47,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 67_660"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 660,
+      "Rotor_diameter_i_meter": 47,
+      "Navhøjde_i_meter": 35,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 660"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 660,
+      "Rotor_diameter_i_meter": 47,
+      "Navhøjde_i_meter": 55,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 660"
+    },
+    {
+      "Antal_i_DK": 9,
+      "Kapacitet_i_kw": 1750,
+      "Rotor_diameter_i_meter": 66,
+      "Navhøjde_i_meter": 60,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 66 1.75"
+    },
+    {
+      "Antal_i_DK": 8,
+      "Kapacitet_i_kw": 1750,
+      "Rotor_diameter_i_meter": 66,
+      "Navhøjde_i_meter": 67,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 66 1.75"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 1750,
+      "Rotor_diameter_i_meter": 66,
+      "Navhøjde_i_meter": 47,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 66 1.75"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 1750,
+      "Rotor_diameter_i_meter": 66,
+      "Navhøjde_i_meter": 66.8,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 66 1.75"
+    },
+    {
+      "Antal_i_DK": 10,
+      "Kapacitet_i_kw": 1650,
+      "Rotor_diameter_i_meter": 66,
+      "Navhøjde_i_meter": 67,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 66 1.65"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 1650,
+      "Rotor_diameter_i_meter": 66,
+      "Navhøjde_i_meter": 46,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 66 1.65"
+    },
+    {
+      "Antal_i_DK": 4,
+      "Kapacitet_i_kw": 1650,
+      "Rotor_diameter_i_meter": 66,
+      "Navhøjde_i_meter": 46,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 66"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 1650,
+      "Rotor_diameter_i_meter": 66,
+      "Navhøjde_i_meter": 67,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 66"
+    },
+    {
+      "Antal_i_DK": 4,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 600"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 42,
+      "Navhøjde_i_meter": 40.5,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 600"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 42,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 600"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 40.5,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 600"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 55,
+      "Rotor_diameter_i_meter": 16,
+      "Navhøjde_i_meter": 19,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 55_16 kW"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 55,
+      "Rotor_diameter_i_meter": 15,
+      "Navhøjde_i_meter": 18,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 55_16"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 75,
+      "Rotor_diameter_i_meter": 15,
+      "Navhøjde_i_meter": 18,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 55_16"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 55,
+      "Rotor_diameter_i_meter": 15,
+      "Navhøjde_i_meter": 22,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 55_16"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 55,
+      "Rotor_diameter_i_meter": 17,
+      "Navhøjde_i_meter": 22.5,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 55_16"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 55,
+      "Rotor_diameter_i_meter": 15,
+      "Navhøjde_i_meter": 22.6,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 55_15"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 22,
+      "Rotor_diameter_i_meter": 15,
+      "Navhøjde_i_meter": 18,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 55_15"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 55,
+      "Rotor_diameter_i_meter": 15.5,
+      "Navhøjde_i_meter": 24,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 55_15"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 55,
+      "Rotor_diameter_i_meter": 15,
+      "Navhøjde_i_meter": 22,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 55_11"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 55,
+      "Rotor_diameter_i_meter": 15.3,
+      "Navhøjde_i_meter": 18,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 55_11"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 75,
+      "Rotor_diameter_i_meter": 17,
+      "Navhøjde_i_meter": 18,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 55_11"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 900,
+      "Rotor_diameter_i_meter": 52,
+      "Navhøjde_i_meter": 49,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 52_900"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 850,
+      "Rotor_diameter_i_meter": 52,
+      "Navhøjde_i_meter": 49,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 52_850 kW"
+    },
+    {
+      "Antal_i_DK": 38,
+      "Kapacitet_i_kw": 850,
+      "Rotor_diameter_i_meter": 52,
+      "Navhøjde_i_meter": 49,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 52_850"
+    },
+    {
+      "Antal_i_DK": 19,
+      "Kapacitet_i_kw": 850,
+      "Rotor_diameter_i_meter": 52,
+      "Navhøjde_i_meter": 54,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 52_850"
+    },
+    {
+      "Antal_i_DK": 8,
+      "Kapacitet_i_kw": 850,
+      "Rotor_diameter_i_meter": 52,
+      "Navhøjde_i_meter": 50,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 52_850"
+    },
+    {
+      "Antal_i_DK": 6,
+      "Kapacitet_i_kw": 850,
+      "Rotor_diameter_i_meter": 52,
+      "Navhøjde_i_meter": 44,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 52_850"
+    },
+    {
+      "Antal_i_DK": 4,
+      "Kapacitet_i_kw": 850,
+      "Rotor_diameter_i_meter": 52,
+      "Navhøjde_i_meter": 55,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 52_850"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 850,
+      "Rotor_diameter_i_meter": 52,
+      "Navhøjde_i_meter": 46,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 52_850"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 850,
+      "Rotor_diameter_i_meter": 52,
+      "Navhøjde_i_meter": 59,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 52_850"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 850,
+      "Rotor_diameter_i_meter": 52,
+      "Navhøjde_i_meter": 42,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 52_850"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 850,
+      "Rotor_diameter_i_meter": 52,
+      "Navhøjde_i_meter": 49,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 52"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 850,
+      "Rotor_diameter_i_meter": 52,
+      "Navhøjde_i_meter": 54,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 52"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 660,
+      "Rotor_diameter_i_meter": 48,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 48_660"
+    },
+    {
+      "Antal_i_DK": 144,
+      "Kapacitet_i_kw": 660,
+      "Rotor_diameter_i_meter": 47,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 47_660"
+    },
+    {
+      "Antal_i_DK": 104,
+      "Kapacitet_i_kw": 660,
+      "Rotor_diameter_i_meter": 47,
+      "Navhøjde_i_meter": 50,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 47_660"
+    },
+    {
+      "Antal_i_DK": 24,
+      "Kapacitet_i_kw": 660,
+      "Rotor_diameter_i_meter": 47,
+      "Navhøjde_i_meter": 40,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 47_660"
+    },
+    {
+      "Antal_i_DK": 16,
+      "Kapacitet_i_kw": 660,
+      "Rotor_diameter_i_meter": 47,
+      "Navhøjde_i_meter": 46,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 47_660"
+    },
+    {
+      "Antal_i_DK": 8,
+      "Kapacitet_i_kw": 660,
+      "Rotor_diameter_i_meter": 47,
+      "Navhøjde_i_meter": 55,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 47_660"
+    },
+    {
+      "Antal_i_DK": 4,
+      "Kapacitet_i_kw": 660,
+      "Rotor_diameter_i_meter": 47,
+      "Navhøjde_i_meter": 45.3,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 47_660"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 660,
+      "Rotor_diameter_i_meter": 47,
+      "Navhøjde_i_meter": 43.7,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 47_660"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 660,
+      "Rotor_diameter_i_meter": 47,
+      "Navhøjde_i_meter": 49.7,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 47_660"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 660,
+      "Rotor_diameter_i_meter": 45,
+      "Navhøjde_i_meter": 0,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 47_660"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 660,
+      "Rotor_diameter_i_meter": 45,
+      "Navhøjde_i_meter": 47,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 47_660"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 660,
+      "Rotor_diameter_i_meter": 46,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 47_660"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 47,
+      "Navhøjde_i_meter": 40.5,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 47_660"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 660,
+      "Rotor_diameter_i_meter": 42,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 47_660"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 660,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 47_660"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 660,
+      "Rotor_diameter_i_meter": 45,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 47_660"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 660,
+      "Rotor_diameter_i_meter": 47,
+      "Navhøjde_i_meter": 0,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 47_660"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 660,
+      "Rotor_diameter_i_meter": 47,
+      "Navhøjde_i_meter": 40.5,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 47_660"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 660,
+      "Rotor_diameter_i_meter": 47,
+      "Navhøjde_i_meter": 45.5,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 47_660"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 660,
+      "Rotor_diameter_i_meter": 47,
+      "Navhøjde_i_meter": 47,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 47_660"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 660,
+      "Rotor_diameter_i_meter": 47,
+      "Navhøjde_i_meter": 65,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 47_660"
+    },
+    {
+      "Antal_i_DK": 34,
+      "Kapacitet_i_kw": 660,
+      "Rotor_diameter_i_meter": 47,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 47"
+    },
+    {
+      "Antal_i_DK": 12,
+      "Kapacitet_i_kw": 660,
+      "Rotor_diameter_i_meter": 47,
+      "Navhøjde_i_meter": 40,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 47"
+    },
+    {
+      "Antal_i_DK": 5,
+      "Kapacitet_i_kw": 660,
+      "Rotor_diameter_i_meter": 47,
+      "Navhøjde_i_meter": 50,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 47"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 660,
+      "Rotor_diameter_i_meter": 47,
+      "Navhøjde_i_meter": 44,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 47"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 660,
+      "Rotor_diameter_i_meter": 47,
+      "Navhøjde_i_meter": 46,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 47"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 47,
+      "Navhøjde_i_meter": 40,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 47"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 660,
+      "Rotor_diameter_i_meter": 47,
+      "Navhøjde_i_meter": 35,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 47"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 660,
+      "Rotor_diameter_i_meter": 47,
+      "Navhøjde_i_meter": 40.5,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 47"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 660,
+      "Rotor_diameter_i_meter": 47,
+      "Navhøjde_i_meter": 45.7,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 47"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 48,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 47"
+    },
+    {
+      "Antal_i_DK": 93,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 44_600"
+    },
+    {
+      "Antal_i_DK": 35,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 50,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 44_600"
+    },
+    {
+      "Antal_i_DK": 24,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 40,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 44_600"
+    },
+    {
+      "Antal_i_DK": 18,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 46,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 44_600"
+    },
+    {
+      "Antal_i_DK": 15,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 42,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 44_600"
+    },
+    {
+      "Antal_i_DK": 5,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 35,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 44_600"
+    },
+    {
+      "Antal_i_DK": 4,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 43.4,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 44_600"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 40.5,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 44_600"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 45,
+      "Navhøjde_i_meter": 0,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 44_600"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 50,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 44_600"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 39,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 44_600"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 44,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 44_600"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 55,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 44_600"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 47,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 44_600"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 660,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 44_600"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 38.4,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 44_600"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 49,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 44_600"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 52,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 44_600"
+    },
+    {
+      "Antal_i_DK": 6,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 44"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 35,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 44"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 50,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 44"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 40,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 44"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 41.5,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 44"
+    },
+    {
+      "Antal_i_DK": 22,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 42,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 42_600"
+    },
+    {
+      "Antal_i_DK": 5,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 42,
+      "Navhøjde_i_meter": 40.5,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 42_600"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 42,
+      "Navhøjde_i_meter": 35,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 42_600"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 40.5,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 42_600"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 42,
+      "Navhøjde_i_meter": 38.9,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 42_600"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 42,
+      "Navhøjde_i_meter": 39,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 42_600"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 50,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 42_600"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 500,
+      "Rotor_diameter_i_meter": 42,
+      "Navhøjde_i_meter": 40,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 42"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 42,
+      "Navhøjde_i_meter": 41.5,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 42"
+    },
+    {
+      "Antal_i_DK": 32,
+      "Kapacitet_i_kw": 500,
+      "Rotor_diameter_i_meter": 39,
+      "Navhøjde_i_meter": 40.5,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 39_500"
+    },
+    {
+      "Antal_i_DK": 17,
+      "Kapacitet_i_kw": 500,
+      "Rotor_diameter_i_meter": 39,
+      "Navhøjde_i_meter": 40,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 39_500"
+    },
+    {
+      "Antal_i_DK": 5,
+      "Kapacitet_i_kw": 500,
+      "Rotor_diameter_i_meter": 39,
+      "Navhøjde_i_meter": 37,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 39_500"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 500,
+      "Rotor_diameter_i_meter": 39,
+      "Navhøjde_i_meter": 35,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 39_500"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 500,
+      "Rotor_diameter_i_meter": 39,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 39_500"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 500,
+      "Rotor_diameter_i_meter": 38,
+      "Navhøjde_i_meter": 40,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 39_500"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 500,
+      "Rotor_diameter_i_meter": 38,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 39_500"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 500,
+      "Rotor_diameter_i_meter": 39,
+      "Navhøjde_i_meter": 38,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 39_500"
+    },
+    {
+      "Antal_i_DK": 10,
+      "Kapacitet_i_kw": 500,
+      "Rotor_diameter_i_meter": 39,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 39"
+    },
+    {
+      "Antal_i_DK": 7,
+      "Kapacitet_i_kw": 500,
+      "Rotor_diameter_i_meter": 39,
+      "Navhøjde_i_meter": 35,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 39"
+    },
+    {
+      "Antal_i_DK": 6,
+      "Kapacitet_i_kw": 500,
+      "Rotor_diameter_i_meter": 39,
+      "Navhøjde_i_meter": 40.5,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 39"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 500,
+      "Rotor_diameter_i_meter": 39,
+      "Navhøjde_i_meter": 40,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 39"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 30,
+      "Rotor_diameter_i_meter": 15.5,
+      "Navhøjde_i_meter": 18,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 30_15"
+    },
+    {
+      "Antal_i_DK": 17,
+      "Kapacitet_i_kw": 225,
+      "Rotor_diameter_i_meter": 29,
+      "Navhøjde_i_meter": 31,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 29_225"
+    },
+    {
+      "Antal_i_DK": 12,
+      "Kapacitet_i_kw": 225,
+      "Rotor_diameter_i_meter": 29,
+      "Navhøjde_i_meter": 29.6,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 29_225"
+    },
+    {
+      "Antal_i_DK": 11,
+      "Kapacitet_i_kw": 225,
+      "Rotor_diameter_i_meter": 29,
+      "Navhøjde_i_meter": 31.5,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 29_225"
+    },
+    {
+      "Antal_i_DK": 7,
+      "Kapacitet_i_kw": 225,
+      "Rotor_diameter_i_meter": 29,
+      "Navhøjde_i_meter": 30,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 29_225"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 225,
+      "Rotor_diameter_i_meter": 29,
+      "Navhøjde_i_meter": 32,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 29_225"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 225,
+      "Rotor_diameter_i_meter": 29,
+      "Navhøjde_i_meter": 27.8,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 29_225"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 225,
+      "Rotor_diameter_i_meter": 27,
+      "Navhøjde_i_meter": 31.5,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 29_225"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 225,
+      "Rotor_diameter_i_meter": 29,
+      "Navhøjde_i_meter": 30.7,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 29_225"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 225,
+      "Rotor_diameter_i_meter": 31.5,
+      "Navhøjde_i_meter": 27,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 29_225"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 250,
+      "Rotor_diameter_i_meter": 29,
+      "Navhøjde_i_meter": 31.5,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 29_225"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 200,
+      "Rotor_diameter_i_meter": 29,
+      "Navhøjde_i_meter": 30,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 29"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 225,
+      "Rotor_diameter_i_meter": 29,
+      "Navhøjde_i_meter": 31,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 29"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 225,
+      "Rotor_diameter_i_meter": 29,
+      "Navhøjde_i_meter": 31.5,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 29"
+    },
+    {
+      "Antal_i_DK": 4,
+      "Kapacitet_i_kw": 225,
+      "Rotor_diameter_i_meter": 27,
+      "Navhøjde_i_meter": 31.5,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 27_225 "
+    },
+    {
+      "Antal_i_DK": 59,
+      "Kapacitet_i_kw": 225,
+      "Rotor_diameter_i_meter": 27,
+      "Navhøjde_i_meter": 31.5,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 27_225"
+    },
+    {
+      "Antal_i_DK": 6,
+      "Kapacitet_i_kw": 225,
+      "Rotor_diameter_i_meter": 27,
+      "Navhøjde_i_meter": 30,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 27_225"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 175,
+      "Rotor_diameter_i_meter": 27,
+      "Navhøjde_i_meter": 31.5,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 27_225"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 225,
+      "Rotor_diameter_i_meter": 27,
+      "Navhøjde_i_meter": 30.7,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 27_225"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 225,
+      "Rotor_diameter_i_meter": 27,
+      "Navhøjde_i_meter": 30.9,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 27_225"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 225,
+      "Rotor_diameter_i_meter": 27,
+      "Navhøjde_i_meter": 34,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 27_225"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 175,
+      "Rotor_diameter_i_meter": 25,
+      "Navhøjde_i_meter": 30,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 27_225"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 225,
+      "Rotor_diameter_i_meter": 24.6,
+      "Navhøjde_i_meter": 32.7,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 27_225"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 225,
+      "Rotor_diameter_i_meter": 27,
+      "Navhøjde_i_meter": 30.6,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 27_225"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 225,
+      "Rotor_diameter_i_meter": 27,
+      "Navhøjde_i_meter": 32,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 27_225"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 225,
+      "Rotor_diameter_i_meter": 27,
+      "Navhøjde_i_meter": 32.2,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 27_225"
+    },
+    {
+      "Antal_i_DK": 6,
+      "Kapacitet_i_kw": 225,
+      "Rotor_diameter_i_meter": 27,
+      "Navhøjde_i_meter": 31,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 27"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 225,
+      "Rotor_diameter_i_meter": 27,
+      "Navhøjde_i_meter": 30,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 27"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 225,
+      "Rotor_diameter_i_meter": 27,
+      "Navhøjde_i_meter": 31.5,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 27"
+    },
+    {
+      "Antal_i_DK": 11,
+      "Kapacitet_i_kw": 200,
+      "Rotor_diameter_i_meter": 25,
+      "Navhøjde_i_meter": 30,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 25_200"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 200,
+      "Rotor_diameter_i_meter": 25,
+      "Navhøjde_i_meter": 30,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 25"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 25,
+      "Rotor_diameter_i_meter": 17,
+      "Navhøjde_i_meter": 16,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 25"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 225,
+      "Rotor_diameter_i_meter": 29,
+      "Navhøjde_i_meter": 31.5,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 225 kW"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 225,
+      "Rotor_diameter_i_meter": 27,
+      "Navhøjde_i_meter": 31.5,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 225 kW"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 225,
+      "Rotor_diameter_i_meter": 27,
+      "Navhøjde_i_meter": 31,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 225 kW"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 100,
+      "Rotor_diameter_i_meter": 20,
+      "Navhøjde_i_meter": 24,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 20_100"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 90,
+      "Rotor_diameter_i_meter": 18.8,
+      "Navhøjde_i_meter": 24,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 19_90"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 75,
+      "Rotor_diameter_i_meter": 17,
+      "Navhøjde_i_meter": 22,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 17_75"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 75,
+      "Rotor_diameter_i_meter": 17,
+      "Navhøjde_i_meter": 22.5,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 17_75"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 75,
+      "Rotor_diameter_i_meter": 17,
+      "Navhøjde_i_meter": 24,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 17_75"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 75,
+      "Rotor_diameter_i_meter": 17,
+      "Navhøjde_i_meter": 23.5,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 17_75"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 75,
+      "Rotor_diameter_i_meter": 17,
+      "Navhøjde_i_meter": 18,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 17_55"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 75,
+      "Rotor_diameter_i_meter": 17,
+      "Navhøjde_i_meter": 22.5,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 17"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 75,
+      "Rotor_diameter_i_meter": 17,
+      "Navhøjde_i_meter": 22.8,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 17"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 25,
+      "Rotor_diameter_i_meter": 15,
+      "Navhøjde_i_meter": 18,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 16"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 55,
+      "Rotor_diameter_i_meter": 15.3,
+      "Navhøjde_i_meter": 23,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 15 55/15"
+    },
+    {
+      "Antal_i_DK": 7,
+      "Kapacitet_i_kw": 25,
+      "Rotor_diameter_i_meter": 15,
+      "Navhøjde_i_meter": 18,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 15"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 22,
+      "Rotor_diameter_i_meter": 15,
+      "Navhøjde_i_meter": 18,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 15"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 25,
+      "Rotor_diameter_i_meter": 15,
+      "Navhøjde_i_meter": 17,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 15"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 25,
+      "Rotor_diameter_i_meter": 16,
+      "Navhøjde_i_meter": 18,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 15"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 55,
+      "Rotor_diameter_i_meter": 15,
+      "Navhøjde_i_meter": 18,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 15"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 55,
+      "Rotor_diameter_i_meter": 15.4,
+      "Navhøjde_i_meter": 23,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 15"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 22,
+      "Rotor_diameter_i_meter": 12,
+      "Navhøjde_i_meter": 19,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "V 12"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 2000,
+      "Rotor_diameter_i_meter": 116,
+      "Navhøjde_i_meter": 95,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "Ukendt_Vestas_VIND"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 3300,
+      "Rotor_diameter_i_meter": 155,
+      "Navhøjde_i_meter": 140.3,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "Ukendt_Vestas_VIND"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 14000,
+      "Rotor_diameter_i_meter": 122,
+      "Navhøjde_i_meter": 160,
+      "Fabrikat": "SIEMENS",
+      "Model": "Ukendt_Simens"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 4300,
+      "Rotor_diameter_i_meter": 130,
+      "Navhøjde_i_meter": 99.5,
+      "Fabrikat": "SIEMENS",
+      "Model": "Ukendt_Simens"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 10,
+      "Rotor_diameter_i_meter": 13,
+      "Navhøjde_i_meter": 18,
+      "Fabrikat": "Gaia_Wind Ltd",
+      "Model": "Ukendt_Gaia_Wind"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 5500,
+      "Rotor_diameter_i_meter": 158,
+      "Navhøjde_i_meter": 11.6,
+      "Fabrikat": "Eget fabrikat",
+      "Model": "Ukendt_Eget fabrikat"
+    },
+    {
+      "Antal_i_DK": 179,
+      "Kapacitet_i_kw": 10,
+      "Rotor_diameter_i_meter": 7.1,
+      "Navhøjde_i_meter": 21.4,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 106,
+      "Kapacitet_i_kw": 10,
+      "Rotor_diameter_i_meter": 7.1,
+      "Navhøjde_i_meter": 21,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 69,
+      "Kapacitet_i_kw": 10,
+      "Rotor_diameter_i_meter": 7,
+      "Navhøjde_i_meter": 21,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 49,
+      "Kapacitet_i_kw": 11,
+      "Rotor_diameter_i_meter": 13,
+      "Navhøjde_i_meter": 18,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 44,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 43,
+      "Navhøjde_i_meter": 44.5,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 22,
+      "Kapacitet_i_kw": 10,
+      "Rotor_diameter_i_meter": 13,
+      "Navhøjde_i_meter": 18,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 20,
+      "Kapacitet_i_kw": 10,
+      "Rotor_diameter_i_meter": 7.1,
+      "Navhøjde_i_meter": 21.5,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 20,
+      "Kapacitet_i_kw": 11,
+      "Rotor_diameter_i_meter": 13,
+      "Navhøjde_i_meter": 18.2,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 19,
+      "Kapacitet_i_kw": 150,
+      "Rotor_diameter_i_meter": 24.6,
+      "Navhøjde_i_meter": 32.5,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 17,
+      "Kapacitet_i_kw": 10,
+      "Rotor_diameter_i_meter": 7.1,
+      "Navhøjde_i_meter": 18,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 14,
+      "Kapacitet_i_kw": 10,
+      "Rotor_diameter_i_meter": 13,
+      "Navhøjde_i_meter": 18.2,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 14,
+      "Kapacitet_i_kw": 500,
+      "Rotor_diameter_i_meter": 37,
+      "Navhøjde_i_meter": 35,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 14,
+      "Kapacitet_i_kw": 550,
+      "Rotor_diameter_i_meter": 41.1,
+      "Navhøjde_i_meter": 42.3,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 12,
+      "Kapacitet_i_kw": 200,
+      "Rotor_diameter_i_meter": 24,
+      "Navhøjde_i_meter": 30,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 12,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 43,
+      "Navhøjde_i_meter": 40,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 11,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 43,
+      "Navhøjde_i_meter": 50,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 10,
+      "Kapacitet_i_kw": 11,
+      "Rotor_diameter_i_meter": 13,
+      "Navhøjde_i_meter": 18.3,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 9,
+      "Kapacitet_i_kw": 10,
+      "Rotor_diameter_i_meter": 7.1,
+      "Navhøjde_i_meter": 21.3,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 8,
+      "Kapacitet_i_kw": 300,
+      "Rotor_diameter_i_meter": 31,
+      "Navhøjde_i_meter": 30,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 8,
+      "Kapacitet_i_kw": 4200,
+      "Rotor_diameter_i_meter": 136,
+      "Navhøjde_i_meter": 112,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 8,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 0.1,
+      "Navhøjde_i_meter": 0.1,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 7,
+      "Kapacitet_i_kw": 150,
+      "Rotor_diameter_i_meter": 0.1,
+      "Navhøjde_i_meter": 0.1,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 7,
+      "Kapacitet_i_kw": 150,
+      "Rotor_diameter_i_meter": 24.6,
+      "Navhøjde_i_meter": 32,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 7,
+      "Kapacitet_i_kw": 150,
+      "Rotor_diameter_i_meter": 24.6,
+      "Navhøjde_i_meter": 32.7,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 7,
+      "Kapacitet_i_kw": 25,
+      "Rotor_diameter_i_meter": 13,
+      "Navhøjde_i_meter": 18,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 7,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 0.1,
+      "Navhøjde_i_meter": 0.1,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 6,
+      "Kapacitet_i_kw": 25,
+      "Rotor_diameter_i_meter": 14,
+      "Navhøjde_i_meter": 18,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 6,
+      "Kapacitet_i_kw": 300,
+      "Rotor_diameter_i_meter": 31,
+      "Navhøjde_i_meter": 30.5,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 6,
+      "Kapacitet_i_kw": 3000,
+      "Rotor_diameter_i_meter": 101,
+      "Navhøjde_i_meter": 89.5,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 5,
+      "Kapacitet_i_kw": 10,
+      "Rotor_diameter_i_meter": 7,
+      "Navhøjde_i_meter": 18,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 5,
+      "Kapacitet_i_kw": 1300,
+      "Rotor_diameter_i_meter": 60,
+      "Navhøjde_i_meter": 60,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 5,
+      "Kapacitet_i_kw": 250,
+      "Rotor_diameter_i_meter": 0.1,
+      "Navhøjde_i_meter": 0.1,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 5,
+      "Kapacitet_i_kw": 550,
+      "Rotor_diameter_i_meter": 37,
+      "Navhøjde_i_meter": 35,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 5,
+      "Kapacitet_i_kw": 550,
+      "Rotor_diameter_i_meter": 41,
+      "Navhøjde_i_meter": 42,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 5,
+      "Kapacitet_i_kw": 660,
+      "Rotor_diameter_i_meter": 0.1,
+      "Navhøjde_i_meter": 0.1,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 4,
+      "Kapacitet_i_kw": 22,
+      "Rotor_diameter_i_meter": 10,
+      "Navhøjde_i_meter": 18,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 4,
+      "Kapacitet_i_kw": 3300,
+      "Rotor_diameter_i_meter": 117,
+      "Navhøjde_i_meter": 91.5,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 4,
+      "Kapacitet_i_kw": 550,
+      "Rotor_diameter_i_meter": 41,
+      "Navhøjde_i_meter": 35,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 11,
+      "Rotor_diameter_i_meter": 12,
+      "Navhøjde_i_meter": 18.5,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 11,
+      "Rotor_diameter_i_meter": 13,
+      "Navhøjde_i_meter": 15,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 12,
+      "Rotor_diameter_i_meter": 13,
+      "Navhøjde_i_meter": 18,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 180,
+      "Rotor_diameter_i_meter": 23.2,
+      "Navhøjde_i_meter": 30,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 200,
+      "Rotor_diameter_i_meter": 0.1,
+      "Navhøjde_i_meter": 0.1,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 300,
+      "Rotor_diameter_i_meter": 31,
+      "Navhøjde_i_meter": 31,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 5000,
+      "Rotor_diameter_i_meter": 132,
+      "Navhøjde_i_meter": 84,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 55,
+      "Rotor_diameter_i_meter": 0.1,
+      "Navhøjde_i_meter": 0.1,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 550,
+      "Rotor_diameter_i_meter": 37.3,
+      "Navhøjde_i_meter": 35,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 41,
+      "Navhøjde_i_meter": 35,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 43,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 10,
+      "Rotor_diameter_i_meter": 14,
+      "Navhøjde_i_meter": 18,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 10,
+      "Rotor_diameter_i_meter": 7,
+      "Navhøjde_i_meter": 21.4,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 10,
+      "Rotor_diameter_i_meter": 7.1,
+      "Navhøjde_i_meter": 15.5,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 1000,
+      "Rotor_diameter_i_meter": 54.2,
+      "Navhøjde_i_meter": 48,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 11,
+      "Rotor_diameter_i_meter": 12,
+      "Navhøjde_i_meter": 18,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 11,
+      "Rotor_diameter_i_meter": 15,
+      "Navhøjde_i_meter": 15,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 150,
+      "Rotor_diameter_i_meter": 23.8,
+      "Navhøjde_i_meter": 30,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 150,
+      "Rotor_diameter_i_meter": 24,
+      "Navhøjde_i_meter": 30,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 150,
+      "Rotor_diameter_i_meter": 25,
+      "Navhøjde_i_meter": 33,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 18,
+      "Rotor_diameter_i_meter": 11,
+      "Navhøjde_i_meter": 18,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 2000,
+      "Rotor_diameter_i_meter": 80,
+      "Navhøjde_i_meter": 67,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 22,
+      "Rotor_diameter_i_meter": 10,
+      "Navhøjde_i_meter": 18.5,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 225,
+      "Rotor_diameter_i_meter": 0.1,
+      "Navhøjde_i_meter": 0.1,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 300,
+      "Rotor_diameter_i_meter": 31,
+      "Navhøjde_i_meter": 29.3,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 500,
+      "Rotor_diameter_i_meter": 37.3,
+      "Navhøjde_i_meter": 35,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 55,
+      "Rotor_diameter_i_meter": 15,
+      "Navhøjde_i_meter": 22,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 43,
+      "Navhøjde_i_meter": 44,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 40,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 800,
+      "Rotor_diameter_i_meter": 50,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 90,
+      "Rotor_diameter_i_meter": 17.5,
+      "Navhøjde_i_meter": 22.5,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 10,
+      "Rotor_diameter_i_meter": 0.1,
+      "Navhøjde_i_meter": 0.1,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 10,
+      "Rotor_diameter_i_meter": 1.1,
+      "Navhøjde_i_meter": 21.4,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 10,
+      "Rotor_diameter_i_meter": 10,
+      "Navhøjde_i_meter": 15.5,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 10,
+      "Rotor_diameter_i_meter": 12.8,
+      "Navhøjde_i_meter": 15,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 10,
+      "Rotor_diameter_i_meter": 13,
+      "Navhøjde_i_meter": 18.3,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 10,
+      "Rotor_diameter_i_meter": 13,
+      "Navhøjde_i_meter": 19,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 10,
+      "Rotor_diameter_i_meter": 13.4,
+      "Navhøjde_i_meter": 18.3,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 10,
+      "Rotor_diameter_i_meter": 4.1,
+      "Navhøjde_i_meter": 21.4,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 10,
+      "Rotor_diameter_i_meter": 7,
+      "Navhøjde_i_meter": 12,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 10,
+      "Rotor_diameter_i_meter": 7,
+      "Navhøjde_i_meter": 22,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 10,
+      "Rotor_diameter_i_meter": 7.1,
+      "Navhøjde_i_meter": 12,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 10,
+      "Rotor_diameter_i_meter": 7.1,
+      "Navhøjde_i_meter": 17,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 10,
+      "Rotor_diameter_i_meter": 7.1,
+      "Navhøjde_i_meter": 18.5,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 10,
+      "Rotor_diameter_i_meter": 7.1,
+      "Navhøjde_i_meter": 22,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 10,
+      "Rotor_diameter_i_meter": 7.6,
+      "Navhøjde_i_meter": 18.6,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 10,
+      "Rotor_diameter_i_meter": 9.3,
+      "Navhøjde_i_meter": 15.6,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 1000,
+      "Rotor_diameter_i_meter": 0.1,
+      "Navhøjde_i_meter": 0.1,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 11,
+      "Rotor_diameter_i_meter": 0,
+      "Navhøjde_i_meter": 18,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 11,
+      "Rotor_diameter_i_meter": 1,
+      "Navhøjde_i_meter": 1,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 11,
+      "Rotor_diameter_i_meter": 10,
+      "Navhøjde_i_meter": 16,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 11,
+      "Rotor_diameter_i_meter": 11,
+      "Navhøjde_i_meter": 18,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 11,
+      "Rotor_diameter_i_meter": 13,
+      "Navhøjde_i_meter": 15.3,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 11,
+      "Rotor_diameter_i_meter": 13,
+      "Navhøjde_i_meter": 18.5,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 11,
+      "Rotor_diameter_i_meter": 13,
+      "Navhøjde_i_meter": 19,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 11,
+      "Rotor_diameter_i_meter": 16,
+      "Navhøjde_i_meter": 18.3,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 11,
+      "Rotor_diameter_i_meter": 8.6,
+      "Navhøjde_i_meter": 12.5,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 12,
+      "Rotor_diameter_i_meter": 8.5,
+      "Navhøjde_i_meter": 15,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 130,
+      "Rotor_diameter_i_meter": 22,
+      "Navhøjde_i_meter": 24,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 1300,
+      "Rotor_diameter_i_meter": 0.1,
+      "Navhøjde_i_meter": 0.1,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 15,
+      "Rotor_diameter_i_meter": 10,
+      "Navhøjde_i_meter": 18,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 15,
+      "Rotor_diameter_i_meter": 10,
+      "Navhøjde_i_meter": 18.5,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 15,
+      "Rotor_diameter_i_meter": 10.8,
+      "Navhøjde_i_meter": 18,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 15,
+      "Rotor_diameter_i_meter": 11,
+      "Navhøjde_i_meter": 18,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 150,
+      "Rotor_diameter_i_meter": 10,
+      "Navhøjde_i_meter": 24.5,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 150,
+      "Rotor_diameter_i_meter": 21.8,
+      "Navhøjde_i_meter": 26,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 150,
+      "Rotor_diameter_i_meter": 22.4,
+      "Navhøjde_i_meter": 30,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 150,
+      "Rotor_diameter_i_meter": 23,
+      "Navhøjde_i_meter": 30,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 150,
+      "Rotor_diameter_i_meter": 27,
+      "Navhøjde_i_meter": 30,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 160,
+      "Rotor_diameter_i_meter": 24.6,
+      "Navhøjde_i_meter": 32.7,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 18,
+      "Rotor_diameter_i_meter": 0.1,
+      "Navhøjde_i_meter": 0.1,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 18,
+      "Rotor_diameter_i_meter": 10.4,
+      "Navhøjde_i_meter": 25,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 18,
+      "Rotor_diameter_i_meter": 10.8,
+      "Navhøjde_i_meter": 18.5,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 18,
+      "Rotor_diameter_i_meter": 10.8,
+      "Navhøjde_i_meter": 19,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 18,
+      "Rotor_diameter_i_meter": 11,
+      "Navhøjde_i_meter": 24,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 18.5,
+      "Rotor_diameter_i_meter": 10.2,
+      "Navhøjde_i_meter": 19,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 18.5,
+      "Rotor_diameter_i_meter": 10.8,
+      "Navhøjde_i_meter": 18.6,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 18.5,
+      "Rotor_diameter_i_meter": 11,
+      "Navhøjde_i_meter": 17.5,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 18.5,
+      "Rotor_diameter_i_meter": 11,
+      "Navhøjde_i_meter": 18,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 18.5,
+      "Rotor_diameter_i_meter": 11,
+      "Navhøjde_i_meter": 20,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 180,
+      "Rotor_diameter_i_meter": 25,
+      "Navhøjde_i_meter": 30,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 200,
+      "Rotor_diameter_i_meter": 27,
+      "Navhøjde_i_meter": 30,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 2000,
+      "Rotor_diameter_i_meter": 80,
+      "Navhøjde_i_meter": 60,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 22,
+      "Rotor_diameter_i_meter": 0.1,
+      "Navhøjde_i_meter": 0.1,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 22,
+      "Rotor_diameter_i_meter": 10.5,
+      "Navhøjde_i_meter": 18,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 22,
+      "Rotor_diameter_i_meter": 10.8,
+      "Navhøjde_i_meter": 24,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 225,
+      "Rotor_diameter_i_meter": 27,
+      "Navhøjde_i_meter": 30,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 23,
+      "Rotor_diameter_i_meter": 12,
+      "Navhøjde_i_meter": 18,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 25,
+      "Rotor_diameter_i_meter": 10,
+      "Navhøjde_i_meter": 19,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 25,
+      "Rotor_diameter_i_meter": 11.6,
+      "Navhøjde_i_meter": 18.5,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 25,
+      "Rotor_diameter_i_meter": 12.3,
+      "Navhøjde_i_meter": 18,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 25,
+      "Rotor_diameter_i_meter": 15,
+      "Navhøjde_i_meter": 18,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 25,
+      "Rotor_diameter_i_meter": 18.5,
+      "Navhøjde_i_meter": 14,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 25,
+      "Rotor_diameter_i_meter": 7,
+      "Navhøjde_i_meter": 18,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 270,
+      "Rotor_diameter_i_meter": 0.1,
+      "Navhøjde_i_meter": 31,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 30,
+      "Rotor_diameter_i_meter": 10,
+      "Navhøjde_i_meter": 18,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 30,
+      "Rotor_diameter_i_meter": 20,
+      "Navhøjde_i_meter": 20,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 300,
+      "Rotor_diameter_i_meter": 31,
+      "Navhøjde_i_meter": 32,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 300,
+      "Rotor_diameter_i_meter": 33,
+      "Navhøjde_i_meter": 30,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 300,
+      "Rotor_diameter_i_meter": 35,
+      "Navhøjde_i_meter": 31,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 400,
+      "Rotor_diameter_i_meter": 54,
+      "Navhøjde_i_meter": 54,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 44,
+      "Rotor_diameter_i_meter": 0.1,
+      "Navhøjde_i_meter": 0.1,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 45,
+      "Rotor_diameter_i_meter": 15.7,
+      "Navhøjde_i_meter": 24,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 500,
+      "Rotor_diameter_i_meter": 37,
+      "Navhøjde_i_meter": 32,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 500,
+      "Rotor_diameter_i_meter": 37,
+      "Navhøjde_i_meter": 33.8,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 500,
+      "Rotor_diameter_i_meter": 37.5,
+      "Navhøjde_i_meter": 35,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 500,
+      "Rotor_diameter_i_meter": 39,
+      "Navhøjde_i_meter": 40.5,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 55,
+      "Rotor_diameter_i_meter": 0.1,
+      "Navhøjde_i_meter": 18,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 55,
+      "Rotor_diameter_i_meter": 10,
+      "Navhøjde_i_meter": 18,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 55,
+      "Rotor_diameter_i_meter": 14,
+      "Navhøjde_i_meter": 18,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 55,
+      "Rotor_diameter_i_meter": 15,
+      "Navhøjde_i_meter": 18,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 55,
+      "Rotor_diameter_i_meter": 16,
+      "Navhøjde_i_meter": 18,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 55,
+      "Rotor_diameter_i_meter": 8,
+      "Navhøjde_i_meter": 23,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 550,
+      "Rotor_diameter_i_meter": 37,
+      "Navhøjde_i_meter": 33,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 550,
+      "Rotor_diameter_i_meter": 41,
+      "Navhøjde_i_meter": 40.9,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 550,
+      "Rotor_diameter_i_meter": 41,
+      "Navhøjde_i_meter": 42.3,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 550,
+      "Rotor_diameter_i_meter": 41,
+      "Navhøjde_i_meter": 42.5,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 38,
+      "Navhøjde_i_meter": 40,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 40,
+      "Navhøjde_i_meter": 40,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 43,
+      "Navhøjde_i_meter": 42,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 43,
+      "Navhøjde_i_meter": 43,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 43,
+      "Navhøjde_i_meter": 43.3,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 43,
+      "Navhøjde_i_meter": 44.6,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 6000,
+      "Rotor_diameter_i_meter": 150,
+      "Navhøjde_i_meter": 140,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 6000,
+      "Rotor_diameter_i_meter": 151,
+      "Navhøjde_i_meter": 104,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 6000,
+      "Rotor_diameter_i_meter": 162,
+      "Navhøjde_i_meter": 140,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 65,
+      "Rotor_diameter_i_meter": 17,
+      "Navhøjde_i_meter": 24,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 660,
+      "Rotor_diameter_i_meter": 47,
+      "Navhøjde_i_meter": 50,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 7000,
+      "Rotor_diameter_i_meter": 154,
+      "Navhøjde_i_meter": 120,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 75,
+      "Rotor_diameter_i_meter": 17,
+      "Navhøjde_i_meter": 25,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 0.1,
+      "Navhøjde_i_meter": 46,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 48,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 800,
+      "Rotor_diameter_i_meter": 0.1,
+      "Navhøjde_i_meter": 0.1,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 8600,
+      "Rotor_diameter_i_meter": 167,
+      "Navhøjde_i_meter": 12.5,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 900,
+      "Rotor_diameter_i_meter": 52,
+      "Navhøjde_i_meter": 49,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 95,
+      "Rotor_diameter_i_meter": 0.1,
+      "Navhøjde_i_meter": 0.1,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 95,
+      "Rotor_diameter_i_meter": 19,
+      "Navhøjde_i_meter": 24.5,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 95,
+      "Rotor_diameter_i_meter": 19.4,
+      "Navhøjde_i_meter": 24,
+      "Fabrikat": "Ukendt",
+      "Model": "Ukendt"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 15,
+      "Rotor_diameter_i_meter": 11,
+      "Navhøjde_i_meter": 18,
+      "Fabrikat": "POULSEN",
+      "Model": "TYPE 2"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 10,
+      "Rotor_diameter_i_meter": 7.1,
+      "Navhøjde_i_meter": 21,
+      "Fabrikat": "THY møllen Aps",
+      "Model": "TWP_40_10"
+    },
+    {
+      "Antal_i_DK": 4,
+      "Kapacitet_i_kw": 250,
+      "Rotor_diameter_i_meter": 26,
+      "Navhøjde_i_meter": 31.5,
+      "Fabrikat": "Dencon",
+      "Model": "TORNADO 250"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 11,
+      "Rotor_diameter_i_meter": 13,
+      "Navhøjde_i_meter": 18.2,
+      "Fabrikat": "Gaia_Wind Ltd",
+      "Model": "Ter_30A 11/100/B3T"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 95,
+      "Rotor_diameter_i_meter": 19,
+      "Navhøjde_i_meter": 28,
+      "Fabrikat": "Tellus",
+      "Model": "TE 95"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 80,
+      "Rotor_diameter_i_meter": 17,
+      "Navhøjde_i_meter": 40,
+      "Fabrikat": "Tellus",
+      "Model": "TE 1780"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 25,
+      "Rotor_diameter_i_meter": 12.6,
+      "Navhøjde_i_meter": 18,
+      "Fabrikat": "Eocycle Technologies Ltd.",
+      "Model": "TD_PT_105_0_0"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 11,
+      "Rotor_diameter_i_meter": 13,
+      "Navhøjde_i_meter": 18,
+      "Fabrikat": "Swinger",
+      "Model": "T 202"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 55,
+      "Rotor_diameter_i_meter": 13,
+      "Navhøjde_i_meter": 18,
+      "Fabrikat": "Swinger",
+      "Model": "T 202"
+    },
+    {
+      "Antal_i_DK": 18,
+      "Kapacitet_i_kw": 4300,
+      "Rotor_diameter_i_meter": 130,
+      "Navhøjde_i_meter": 85,
+      "Fabrikat": "SIEMENS",
+      "Model": "SWT_DD_130 Mode 1"
+    },
+    {
+      "Antal_i_DK": 4,
+      "Kapacitet_i_kw": 7000,
+      "Rotor_diameter_i_meter": 154,
+      "Navhøjde_i_meter": 85.3,
+      "Fabrikat": "Siemens Wind Power A/S",
+      "Model": "SWT_7.0_154"
+    },
+    {
+      "Antal_i_DK": 6,
+      "Kapacitet_i_kw": 6000,
+      "Rotor_diameter_i_meter": 121,
+      "Navhøjde_i_meter": 89,
+      "Fabrikat": "Siemens Wind Power A/S",
+      "Model": "SWT_6.0_120"
+    },
+    {
+      "Antal_i_DK": 22,
+      "Kapacitet_i_kw": 3200,
+      "Rotor_diameter_i_meter": 113,
+      "Navhøjde_i_meter": 92.5,
+      "Fabrikat": "SIEMENS",
+      "Model": "SWT_3.2_113 DD"
+    },
+    {
+      "Antal_i_DK": 15,
+      "Kapacitet_i_kw": 3200,
+      "Rotor_diameter_i_meter": 113,
+      "Navhøjde_i_meter": 83.5,
+      "Fabrikat": "SIEMENS",
+      "Model": "SWT_3.2_113 DD"
+    },
+    {
+      "Antal_i_DK": 8,
+      "Kapacitet_i_kw": 3400,
+      "Rotor_diameter_i_meter": 113,
+      "Navhøjde_i_meter": 83.5,
+      "Fabrikat": "SIEMENS",
+      "Model": "SWT_3.2_113 DD"
+    },
+    {
+      "Antal_i_DK": 13,
+      "Kapacitet_i_kw": 3200,
+      "Rotor_diameter_i_meter": 101,
+      "Navhøjde_i_meter": 79.5,
+      "Fabrikat": "Siemens Wind Power A/S",
+      "Model": "SWT_3.2_101 DD"
+    },
+    {
+      "Antal_i_DK": 5,
+      "Kapacitet_i_kw": 3000,
+      "Rotor_diameter_i_meter": 113,
+      "Navhøjde_i_meter": 93,
+      "Fabrikat": "SIEMENS",
+      "Model": "SWT_3.0_113 DD"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 8000,
+      "Rotor_diameter_i_meter": 154,
+      "Navhøjde_i_meter": 12.5,
+      "Fabrikat": "Siemens Wind Power A/S",
+      "Model": "SWT 8.0_154"
+    },
+    {
+      "Antal_i_DK": 111,
+      "Kapacitet_i_kw": 3600,
+      "Rotor_diameter_i_meter": 120,
+      "Navhøjde_i_meter": 81.6,
+      "Fabrikat": "SIEMENS",
+      "Model": "SWT 3.6_120"
+    },
+    {
+      "Antal_i_DK": 6,
+      "Kapacitet_i_kw": 3600,
+      "Rotor_diameter_i_meter": 120,
+      "Navhøjde_i_meter": 90,
+      "Fabrikat": "SIEMENS",
+      "Model": "SWT 3.6_120"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 3600,
+      "Rotor_diameter_i_meter": 107.2,
+      "Navhøjde_i_meter": 90,
+      "Fabrikat": "SIEMENS",
+      "Model": "SWT 3.6_107"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 3600,
+      "Rotor_diameter_i_meter": 107,
+      "Navhøjde_i_meter": 80,
+      "Fabrikat": "SIEMENS",
+      "Model": "SWT 3.6"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 3600,
+      "Rotor_diameter_i_meter": 120,
+      "Navhøjde_i_meter": 89.9,
+      "Fabrikat": "SIEMENS",
+      "Model": "SWT 3.6"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 3600,
+      "Rotor_diameter_i_meter": 120,
+      "Navhøjde_i_meter": 90,
+      "Fabrikat": "SIEMENS",
+      "Model": "SWT 3.6"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 4100,
+      "Rotor_diameter_i_meter": 142,
+      "Navhøjde_i_meter": 109,
+      "Fabrikat": "Siemens Wind Power A/S",
+      "Model": "SWT 3.15_109_142"
+    },
+    {
+      "Antal_i_DK": 24,
+      "Kapacitet_i_kw": 3000,
+      "Rotor_diameter_i_meter": 101,
+      "Navhøjde_i_meter": 89.5,
+      "Fabrikat": "SIEMENS",
+      "Model": "SWT 3.0_101"
+    },
+    {
+      "Antal_i_DK": 18,
+      "Kapacitet_i_kw": 3000,
+      "Rotor_diameter_i_meter": 101,
+      "Navhøjde_i_meter": 79.5,
+      "Fabrikat": "SIEMENS",
+      "Model": "SWT 3.0_101"
+    },
+    {
+      "Antal_i_DK": 6,
+      "Kapacitet_i_kw": 3000,
+      "Rotor_diameter_i_meter": 101,
+      "Navhøjde_i_meter": 90,
+      "Fabrikat": "SIEMENS",
+      "Model": "SWT 3.0_101"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 3000,
+      "Rotor_diameter_i_meter": 101,
+      "Navhøjde_i_meter": 80,
+      "Fabrikat": "SIEMENS",
+      "Model": "SWT 3.0_101"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 3000,
+      "Rotor_diameter_i_meter": 113,
+      "Navhøjde_i_meter": 89.5,
+      "Fabrikat": "SIEMENS",
+      "Model": "SWT 3.0_101"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 3000,
+      "Rotor_diameter_i_meter": 108,
+      "Navhøjde_i_meter": 89.5,
+      "Fabrikat": "SIEMENS",
+      "Model": "SWT 3.0_101"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 3200,
+      "Rotor_diameter_i_meter": 108,
+      "Navhøjde_i_meter": 89.5,
+      "Fabrikat": "SIEMENS",
+      "Model": "SWT 3.0_101"
+    },
+    {
+      "Antal_i_DK": 116,
+      "Kapacitet_i_kw": 2300,
+      "Rotor_diameter_i_meter": 92.6,
+      "Navhøjde_i_meter": 80,
+      "Fabrikat": "SIEMENS",
+      "Model": "SWT 2.3_93"
+    },
+    {
+      "Antal_i_DK": 91,
+      "Kapacitet_i_kw": 2300,
+      "Rotor_diameter_i_meter": 93,
+      "Navhøjde_i_meter": 55,
+      "Fabrikat": "SIEMENS",
+      "Model": "SWT 2.3_93"
+    },
+    {
+      "Antal_i_DK": 57,
+      "Kapacitet_i_kw": 2300,
+      "Rotor_diameter_i_meter": 93,
+      "Navhøjde_i_meter": 80,
+      "Fabrikat": "SIEMENS",
+      "Model": "SWT 2.3_93"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 2300,
+      "Rotor_diameter_i_meter": 93,
+      "Navhøjde_i_meter": 61.5,
+      "Fabrikat": "SIEMENS",
+      "Model": "SWT 2.3_93"
+    },
+    {
+      "Antal_i_DK": 83,
+      "Kapacitet_i_kw": 25,
+      "Rotor_diameter_i_meter": 14,
+      "Navhøjde_i_meter": 18,
+      "Fabrikat": "Solid Wind Power A/S",
+      "Model": "SWP25_14TG20"
+    },
+    {
+      "Antal_i_DK": 15,
+      "Kapacitet_i_kw": 10,
+      "Rotor_diameter_i_meter": 14,
+      "Navhøjde_i_meter": 18,
+      "Fabrikat": "Solid Wind Power A/S",
+      "Model": "SWP25_14TG20"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 10,
+      "Rotor_diameter_i_meter": 17,
+      "Navhøjde_i_meter": 18,
+      "Fabrikat": "Solid Wind Power A/S",
+      "Model": "SWP25_14TG20"
+    },
+    {
+      "Antal_i_DK": 384,
+      "Kapacitet_i_kw": 10,
+      "Rotor_diameter_i_meter": 14,
+      "Navhøjde_i_meter": 18,
+      "Fabrikat": "Solid Wind Power A/S",
+      "Model": "SWP10_14TG20"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 10,
+      "Rotor_diameter_i_meter": 10,
+      "Navhøjde_i_meter": 18,
+      "Fabrikat": "Solid Wind Power A/S",
+      "Model": "SWP10_14TG20"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 10,
+      "Rotor_diameter_i_meter": 14,
+      "Navhøjde_i_meter": 15,
+      "Fabrikat": "Solid Wind Power A/S",
+      "Model": "SWP10_14TG20"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 10,
+      "Rotor_diameter_i_meter": 14,
+      "Navhøjde_i_meter": 18.9,
+      "Fabrikat": "Solid Wind Power A/S",
+      "Model": "SWP10_14TG20"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 10,
+      "Rotor_diameter_i_meter": 17,
+      "Navhøjde_i_meter": 18,
+      "Fabrikat": "Solid Wind Power A/S",
+      "Model": "SWP10_14TG20"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 25,
+      "Rotor_diameter_i_meter": 16,
+      "Navhøjde_i_meter": 17,
+      "Fabrikat": "Solid Wind Power A/S",
+      "Model": "SWP10_14TG20"
+    },
+    {
+      "Antal_i_DK": 17,
+      "Kapacitet_i_kw": 10,
+      "Rotor_diameter_i_meter": 14,
+      "Navhøjde_i_meter": 18,
+      "Fabrikat": "Solid Wind Power A/S",
+      "Model": "SWP_10_16 TG20"
+    },
+    {
+      "Antal_i_DK": 10,
+      "Kapacitet_i_kw": 10,
+      "Rotor_diameter_i_meter": 16,
+      "Navhøjde_i_meter": 17,
+      "Fabrikat": "Solid Wind Power A/S",
+      "Model": "SWP_10_16 TG20"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 10,
+      "Rotor_diameter_i_meter": 15.9,
+      "Navhøjde_i_meter": 17,
+      "Fabrikat": "Solid Wind Power A/S",
+      "Model": "SWP_10_16 TG20"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 5000,
+      "Rotor_diameter_i_meter": 145,
+      "Navhøjde_i_meter": 12.5,
+      "Fabrikat": "Siemens Wind Power A/S",
+      "Model": "SG4.5_145"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 10000,
+      "Rotor_diameter_i_meter": 193,
+      "Navhøjde_i_meter": 140,
+      "Fabrikat": "Siemens Wind Power A/S",
+      "Model": "SG DD_193 / SG 10.0_193DD"
+    },
+    {
+      "Antal_i_DK": 72,
+      "Kapacitet_i_kw": 8400,
+      "Rotor_diameter_i_meter": 167,
+      "Navhøjde_i_meter": 104,
+      "Fabrikat": "Siemens Wind Power A/S",
+      "Model": "SG 8.0_167 DD"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 6600,
+      "Rotor_diameter_i_meter": 170,
+      "Navhøjde_i_meter": 115,
+      "Fabrikat": "Siemens Wind Power A/S",
+      "Model": "SG 8.0_167 DD"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 12,
+      "Rotor_diameter_i_meter": 8.5,
+      "Navhøjde_i_meter": 15,
+      "Fabrikat": "Ecowind",
+      "Model": "Proven P35_2"
+    },
+    {
+      "Antal_i_DK": 4,
+      "Kapacitet_i_kw": 10,
+      "Rotor_diameter_i_meter": 9.7,
+      "Navhøjde_i_meter": 15,
+      "Fabrikat": "Osiris Energy Co.. Ltd",
+      "Model": "Osiris 10"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 10,
+      "Rotor_diameter_i_meter": 10,
+      "Navhøjde_i_meter": 16,
+      "Fabrikat": "Osiris Energy Co.. Ltd",
+      "Model": "Osiris 10"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 10,
+      "Rotor_diameter_i_meter": 8,
+      "Navhøjde_i_meter": 16,
+      "Fabrikat": "Osiris Energy Co.. Ltd",
+      "Model": "Osiris 10"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 10,
+      "Rotor_diameter_i_meter": 9.7,
+      "Navhøjde_i_meter": 15.5,
+      "Fabrikat": "Osiris Energy Co.. Ltd",
+      "Model": "Osiris 10"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 22,
+      "Rotor_diameter_i_meter": 10.5,
+      "Navhøjde_i_meter": 19,
+      "Fabrikat": "Kongsted",
+      "Model": "NTV 22/7.5"
+    },
+    {
+      "Antal_i_DK": 10,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 43,
+      "Navhøjde_i_meter": 50,
+      "Fabrikat": "Nordtank",
+      "Model": "NTK 600/43/50"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 0.1,
+      "Navhøjde_i_meter": 44.5,
+      "Fabrikat": "Nordtank",
+      "Model": "NTK 600/43_44.5"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 43,
+      "Navhøjde_i_meter": 44.5,
+      "Fabrikat": "Nordtank",
+      "Model": "NTK 600/43_44.5"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 550,
+      "Rotor_diameter_i_meter": 41,
+      "Navhøjde_i_meter": 35,
+      "Fabrikat": "Nordtank",
+      "Model": "NTK 550"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 550,
+      "Rotor_diameter_i_meter": 41,
+      "Navhøjde_i_meter": 42,
+      "Fabrikat": "Nordtank",
+      "Model": "NTK 550"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 550,
+      "Rotor_diameter_i_meter": 41,
+      "Navhøjde_i_meter": 42.3,
+      "Fabrikat": "Nordtank",
+      "Model": "NTK 550"
+    },
+    {
+      "Antal_i_DK": 4,
+      "Kapacitet_i_kw": 550,
+      "Rotor_diameter_i_meter": 41,
+      "Navhøjde_i_meter": 42,
+      "Fabrikat": "Nordtank",
+      "Model": "NTK 55/41"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 45,
+      "Rotor_diameter_i_meter": 18,
+      "Navhøjde_i_meter": 20.5,
+      "Fabrikat": "Nordtank",
+      "Model": "NTK 55/11"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 55,
+      "Rotor_diameter_i_meter": 16,
+      "Navhøjde_i_meter": 18,
+      "Fabrikat": "Nordtank",
+      "Model": "NTK 55/11"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 55,
+      "Rotor_diameter_i_meter": 16,
+      "Navhøjde_i_meter": 24.5,
+      "Fabrikat": "Nordtank",
+      "Model": "NTK 55/10"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 550,
+      "Rotor_diameter_i_meter": 41,
+      "Navhøjde_i_meter": 35,
+      "Fabrikat": "Nordtank",
+      "Model": "NTK 55"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 500,
+      "Rotor_diameter_i_meter": 37.2,
+      "Navhøjde_i_meter": 35,
+      "Fabrikat": "Nordtank",
+      "Model": "NTK 500/37/31"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 550,
+      "Rotor_diameter_i_meter": 37,
+      "Navhøjde_i_meter": 35,
+      "Fabrikat": "Nordtank",
+      "Model": "NTK 500/35"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 500,
+      "Rotor_diameter_i_meter": 41,
+      "Navhøjde_i_meter": 37,
+      "Fabrikat": "Nordtank",
+      "Model": "NTK 500"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 22,
+      "Rotor_diameter_i_meter": 10,
+      "Navhøjde_i_meter": 18,
+      "Fabrikat": "Nordtank",
+      "Model": "NTK 22/30"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 22,
+      "Rotor_diameter_i_meter": 10,
+      "Navhøjde_i_meter": 20.5,
+      "Fabrikat": "Nordtank",
+      "Model": "NTK 22"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 22,
+      "Rotor_diameter_i_meter": 11,
+      "Navhøjde_i_meter": 18,
+      "Fabrikat": "Nordtank",
+      "Model": "NTK 22"
+    },
+    {
+      "Antal_i_DK": 6,
+      "Kapacitet_i_kw": 1500,
+      "Rotor_diameter_i_meter": 72,
+      "Navhøjde_i_meter": 63.9,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "NM72C/1500/EVOII"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 1500,
+      "Rotor_diameter_i_meter": 72,
+      "Navhøjde_i_meter": 63.9,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "NM72C"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 48,
+      "Navhøjde_i_meter": 46.3,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 950/48_45"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 2750,
+      "Rotor_diameter_i_meter": 92,
+      "Navhøjde_i_meter": 70,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 92/750"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 900,
+      "Rotor_diameter_i_meter": 52,
+      "Navhøjde_i_meter": 49,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 900/5-IEC II"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 900,
+      "Rotor_diameter_i_meter": 52,
+      "Navhøjde_i_meter": 49,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 900"
+    },
+    {
+      "Antal_i_DK": 4,
+      "Kapacitet_i_kw": 2750,
+      "Rotor_diameter_i_meter": 80,
+      "Navhøjde_i_meter": 60,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 80/750"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 2500,
+      "Rotor_diameter_i_meter": 80,
+      "Navhøjde_i_meter": 57,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 80"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 400,
+      "Rotor_diameter_i_meter": 31,
+      "Navhøjde_i_meter": 36,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 750_400/100"
+    },
+    {
+      "Antal_i_DK": 5,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 48.2,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 750_200/48 IEC ll"
+    },
+    {
+      "Antal_i_DK": 92,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 48,
+      "Navhøjde_i_meter": 50,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 750_200/48"
+    },
+    {
+      "Antal_i_DK": 29,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 48,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 750_200/48"
+    },
+    {
+      "Antal_i_DK": 7,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 48.2,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 750_200/48"
+    },
+    {
+      "Antal_i_DK": 5,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 48,
+      "Navhøjde_i_meter": 48,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 750_200/48"
+    },
+    {
+      "Antal_i_DK": 4,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 48.2,
+      "Navhøjde_i_meter": 45.5,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 750_200/48"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 48,
+      "Navhøjde_i_meter": 46,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 750_200/48"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 48.2,
+      "Navhøjde_i_meter": 50,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 750_200/48"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 46,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 750_200/48"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 48,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 750_200/48"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 48,
+      "Navhøjde_i_meter": 42,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 750_200/48"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 48,
+      "Navhøjde_i_meter": 55,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 750_200/48"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 750_200/44"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 48,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 750_200/20"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 48,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 750_200"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 48,
+      "Navhøjde_i_meter": 46,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 750_200"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 48,
+      "Navhøjde_i_meter": 50,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 750_200"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 48,
+      "Navhøjde_i_meter": 50,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 750_1800"
+    },
+    {
+      "Antal_i_DK": 6,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 42,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 750_175/44"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 750_175/44"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 50,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 750_175/44"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 46,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 750_174/44"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 46,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 750_150"
+    },
+    {
+      "Antal_i_DK": 14,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 46,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 750"
+    },
+    {
+      "Antal_i_DK": 9,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 48,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 750"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 48,
+      "Navhøjde_i_meter": 46,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 750"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 48.2,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 750"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 41,
+      "Navhøjde_i_meter": 42,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 750"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 48,
+      "Navhøjde_i_meter": 50,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 750"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 48.2,
+      "Navhøjde_i_meter": 43.6,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 750"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 2000,
+      "Rotor_diameter_i_meter": 72,
+      "Navhøjde_i_meter": 64,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 72/2000"
+    },
+    {
+      "Antal_i_DK": 12,
+      "Kapacitet_i_kw": 1500,
+      "Rotor_diameter_i_meter": 64,
+      "Navhøjde_i_meter": 60,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 64/1500"
+    },
+    {
+      "Antal_i_DK": 10,
+      "Kapacitet_i_kw": 1500,
+      "Rotor_diameter_i_meter": 64,
+      "Navhøjde_i_meter": 68,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 64/1500"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 1500,
+      "Rotor_diameter_i_meter": 64,
+      "Navhøjde_i_meter": 48,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 64/1500"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 1500,
+      "Rotor_diameter_i_meter": 64,
+      "Navhøjde_i_meter": 48,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 64"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 48,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 600/48/45"
+    },
+    {
+      "Antal_i_DK": 9,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 48,
+      "Navhøjde_i_meter": 46,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 600/48"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 48,
+      "Navhøjde_i_meter": 50,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 600/48"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 43,
+      "Navhøjde_i_meter": 46,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 600/43"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 48,
+      "Navhøjde_i_meter": 46,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 600/43"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 48,
+      "Navhøjde_i_meter": 46.4,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 600/150/48"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 48,
+      "Navhøjde_i_meter": 46,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 600/150"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 42,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 600/150"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 46,
+      "Navhøjde_i_meter": 0,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 600/150"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 46,
+      "Navhøjde_i_meter": 46,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 600/150"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 43,
+      "Navhøjde_i_meter": 44.5,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 600_180/43"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 48,
+      "Navhøjde_i_meter": 46,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 600"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 1000,
+      "Rotor_diameter_i_meter": 0.1,
+      "Navhøjde_i_meter": 0.1,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 60/1000"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 1000,
+      "Rotor_diameter_i_meter": 60,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 60/1000"
+    },
+    {
+      "Antal_i_DK": 14,
+      "Kapacitet_i_kw": 200,
+      "Rotor_diameter_i_meter": 27,
+      "Navhøjde_i_meter": 30,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 570_200"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 250,
+      "Rotor_diameter_i_meter": 24,
+      "Navhøjde_i_meter": 30,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 530_250"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 250,
+      "Rotor_diameter_i_meter": 26,
+      "Navhøjde_i_meter": 30,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 530_250"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 900,
+      "Rotor_diameter_i_meter": 52,
+      "Navhøjde_i_meter": 44,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 52/900_250 44"
+    },
+    {
+      "Antal_i_DK": 10,
+      "Kapacitet_i_kw": 900,
+      "Rotor_diameter_i_meter": 52,
+      "Navhøjde_i_meter": 49,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 52/900_200"
+    },
+    {
+      "Antal_i_DK": 4,
+      "Kapacitet_i_kw": 900,
+      "Rotor_diameter_i_meter": 52.5,
+      "Navhøjde_i_meter": 49,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 52/900 LM"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 900,
+      "Rotor_diameter_i_meter": 52,
+      "Navhøjde_i_meter": 49,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 52/900 LM"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 900,
+      "Rotor_diameter_i_meter": 52,
+      "Navhøjde_i_meter": 54,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 52/900 LM"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 900,
+      "Rotor_diameter_i_meter": 52.2,
+      "Navhøjde_i_meter": 49,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 52/900 IEC ll"
+    },
+    {
+      "Antal_i_DK": 5,
+      "Kapacitet_i_kw": 900,
+      "Rotor_diameter_i_meter": 52,
+      "Navhøjde_i_meter": 49,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 52/900 A"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 900,
+      "Rotor_diameter_i_meter": 52,
+      "Navhøjde_i_meter": 49,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 52/900 49"
+    },
+    {
+      "Antal_i_DK": 14,
+      "Kapacitet_i_kw": 900,
+      "Rotor_diameter_i_meter": 52,
+      "Navhøjde_i_meter": 44,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 52/900 44"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 900,
+      "Rotor_diameter_i_meter": 52,
+      "Navhøjde_i_meter": 49,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 52/900 44"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 900,
+      "Rotor_diameter_i_meter": 52,
+      "Navhøjde_i_meter": 44.5,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 52/900 44"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 900,
+      "Rotor_diameter_i_meter": 52.2,
+      "Navhøjde_i_meter": 44,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 52/900 44"
+    },
+    {
+      "Antal_i_DK": 51,
+      "Kapacitet_i_kw": 900,
+      "Rotor_diameter_i_meter": 52,
+      "Navhøjde_i_meter": 49,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 52/900"
+    },
+    {
+      "Antal_i_DK": 31,
+      "Kapacitet_i_kw": 900,
+      "Rotor_diameter_i_meter": 52,
+      "Navhøjde_i_meter": 44,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 52/900"
+    },
+    {
+      "Antal_i_DK": 8,
+      "Kapacitet_i_kw": 900,
+      "Rotor_diameter_i_meter": 52,
+      "Navhøjde_i_meter": 54,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 52/900"
+    },
+    {
+      "Antal_i_DK": 4,
+      "Kapacitet_i_kw": 900,
+      "Rotor_diameter_i_meter": 52,
+      "Navhøjde_i_meter": 50,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 52/900"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 900,
+      "Rotor_diameter_i_meter": 52,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 52/900"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 900,
+      "Rotor_diameter_i_meter": 47,
+      "Navhøjde_i_meter": 50,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 52/900"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 900,
+      "Rotor_diameter_i_meter": 52.2,
+      "Navhøjde_i_meter": 44,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 52/900"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 900,
+      "Rotor_diameter_i_meter": 52,
+      "Navhøjde_i_meter": 49,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 52"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 43,
+      "Navhøjde_i_meter": 46,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 500_500/125"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 43,
+      "Navhøjde_i_meter": 40,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 500"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 48,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 48/750 IEC ll"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 48.2,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 48/750 45"
+    },
+    {
+      "Antal_i_DK": 191,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 48,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 48/750"
+    },
+    {
+      "Antal_i_DK": 28,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 48.2,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 48/750"
+    },
+    {
+      "Antal_i_DK": 19,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 48,
+      "Navhøjde_i_meter": 50,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 48/750"
+    },
+    {
+      "Antal_i_DK": 10,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 48.2,
+      "Navhøjde_i_meter": 50,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 48/750"
+    },
+    {
+      "Antal_i_DK": 6,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 48.2,
+      "Navhøjde_i_meter": 48,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 48/750"
+    },
+    {
+      "Antal_i_DK": 4,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 48,
+      "Navhøjde_i_meter": 46,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 48/750"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 46,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 48/750"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 48,
+      "Navhøjde_i_meter": 44,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 48/750"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 48/750"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 48,
+      "Navhøjde_i_meter": 48,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 48/750"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 48,
+      "Navhøjde_i_meter": 55,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 48/750"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 50,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 48/750"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 48,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 48/750"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 46.5,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 48/750"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 48,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 48/750"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 48,
+      "Navhøjde_i_meter": 42,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 48/750"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 69,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 48/750"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 75,
+      "Navhøjde_i_meter": 50,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 48/750"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 250,
+      "Rotor_diameter_i_meter": 24,
+      "Navhøjde_i_meter": 30,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 450_250"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 46,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 44/750 46"
+    },
+    {
+      "Antal_i_DK": 4,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 46,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 44/750 45"
+    },
+    {
+      "Antal_i_DK": 12,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 46,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 44/750"
+    },
+    {
+      "Antal_i_DK": 11,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 40,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 44/750"
+    },
+    {
+      "Antal_i_DK": 7,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 44/750"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 50,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 44/750"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 48,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 44/750"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 40.5,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 44/750"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 250,
+      "Rotor_diameter_i_meter": 24,
+      "Navhøjde_i_meter": 30,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 250"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 250,
+      "Rotor_diameter_i_meter": 26,
+      "Navhøjde_i_meter": 30,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 250"
+    },
+    {
+      "Antal_i_DK": 6,
+      "Kapacitet_i_kw": 2000,
+      "Rotor_diameter_i_meter": 72,
+      "Navhøjde_i_meter": 68,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 2000"
+    },
+    {
+      "Antal_i_DK": 4,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 48,
+      "Navhøjde_i_meter": 50,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 1800_750/200"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 48.2,
+      "Navhøjde_i_meter": 46,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 1800_750/200"
+    },
+    {
+      "Antal_i_DK": 9,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 48,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 1800_750/175"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 48,
+      "Navhøjde_i_meter": 55,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 1800_750/175"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 48.2,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 1800_750/175"
+    },
+    {
+      "Antal_i_DK": 21,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 48,
+      "Navhøjde_i_meter": 46,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 1800_600/150"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 48,
+      "Navhøjde_i_meter": 46.4,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 1800_600/150"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 48,
+      "Navhøjde_i_meter": 50,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 1800_600/150"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 44,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 1800_600/150"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 46,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 1800_600/150"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 48,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 1800_600/150"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 48,
+      "Navhøjde_i_meter": 48,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 1800_600/150"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 48,
+      "Navhøjde_i_meter": 46,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 1800_600/150"
+    },
+    {
+      "Antal_i_DK": 17,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 48,
+      "Navhøjde_i_meter": 46,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 1800_600"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 46,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 1800_600"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 48,
+      "Navhøjde_i_meter": 47.5,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 1800_600"
+    },
+    {
+      "Antal_i_DK": 5,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 43,
+      "Navhøjde_i_meter": 46,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 1800"
+    },
+    {
+      "Antal_i_DK": 4,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 48,
+      "Navhøjde_i_meter": 46,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 1800"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 48,
+      "Navhøjde_i_meter": 55,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 1800"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 45,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 1800"
+    },
+    {
+      "Antal_i_DK": 9,
+      "Kapacitet_i_kw": 1500,
+      "Rotor_diameter_i_meter": 64,
+      "Navhøjde_i_meter": 60,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 1500/64"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 43,
+      "Navhøjde_i_meter": 46.4,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 1500/600"
+    },
+    {
+      "Antal_i_DK": 24,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 46,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 1500_750/175"
+    },
+    {
+      "Antal_i_DK": 19,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 40,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 1500_750/175"
+    },
+    {
+      "Antal_i_DK": 5,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 50,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 1500_750/175"
+    },
+    {
+      "Antal_i_DK": 4,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 40.4,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 1500_750/175"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 48,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 1500_750/175"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 43,
+      "Navhøjde_i_meter": 46,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 1500_750/175"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 47,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 1500_750/175"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 48,
+      "Navhøjde_i_meter": 42,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 1500_750/175"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 48,
+      "Navhøjde_i_meter": 46,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 1500_750/175"
+    },
+    {
+      "Antal_i_DK": 25,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 43,
+      "Navhøjde_i_meter": 46,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 1500_600/150"
+    },
+    {
+      "Antal_i_DK": 10,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 43,
+      "Navhøjde_i_meter": 40,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 1500_600/150"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 43,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 1500_600/150"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 43,
+      "Navhøjde_i_meter": 39,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 1500_600/150"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 43,
+      "Navhøjde_i_meter": 56.5,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 1500_600/150"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 43.4,
+      "Navhøjde_i_meter": 46,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 1500_600/150"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 1500_600/150"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 46,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 1500_600/150"
+    },
+    {
+      "Antal_i_DK": 5,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 43,
+      "Navhøjde_i_meter": 46,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 1500_600"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 40,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 1500_600"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 46,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 1500"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 150,
+      "Rotor_diameter_i_meter": 24.6,
+      "Navhøjde_i_meter": 30,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 150 XLR"
+    },
+    {
+      "Antal_i_DK": 8,
+      "Kapacitet_i_kw": 1000,
+      "Rotor_diameter_i_meter": 60,
+      "Navhøjde_i_meter": 50,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 1000/60"
+    },
+    {
+      "Antal_i_DK": 4,
+      "Kapacitet_i_kw": 1000,
+      "Rotor_diameter_i_meter": 60,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 1000/60"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 1000,
+      "Rotor_diameter_i_meter": 0.1,
+      "Navhøjde_i_meter": 0.1,
+      "Fabrikat": "NEG Micon",
+      "Model": "NM 1000/54"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 1300,
+      "Rotor_diameter_i_meter": 62,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "BONUS",
+      "Model": "N60/1300"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 2300,
+      "Rotor_diameter_i_meter": 90,
+      "Navhøjde_i_meter": 80,
+      "Fabrikat": "Nordex",
+      "Model": "N 90/2300"
+    },
+    {
+      "Antal_i_DK": 29,
+      "Kapacitet_i_kw": 1300,
+      "Rotor_diameter_i_meter": 60,
+      "Navhøjde_i_meter": 46,
+      "Fabrikat": "Nordex",
+      "Model": "N 60/1300"
+    },
+    {
+      "Antal_i_DK": 6,
+      "Kapacitet_i_kw": 1300,
+      "Rotor_diameter_i_meter": 60,
+      "Navhøjde_i_meter": 50,
+      "Fabrikat": "Nordex",
+      "Model": "N 60/1300"
+    },
+    {
+      "Antal_i_DK": 4,
+      "Kapacitet_i_kw": 1300,
+      "Rotor_diameter_i_meter": 60,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "Nordex",
+      "Model": "N 60/1300"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 1300,
+      "Rotor_diameter_i_meter": 60,
+      "Navhøjde_i_meter": 60,
+      "Fabrikat": "Nordex",
+      "Model": "N 60/1300"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 1300,
+      "Rotor_diameter_i_meter": 60,
+      "Navhøjde_i_meter": 46,
+      "Fabrikat": "Nordex",
+      "Model": "N 60"
+    },
+    {
+      "Antal_i_DK": 22,
+      "Kapacitet_i_kw": 800,
+      "Rotor_diameter_i_meter": 50,
+      "Navhøjde_i_meter": 46,
+      "Fabrikat": "Nordex",
+      "Model": "N 50/800"
+    },
+    {
+      "Antal_i_DK": 22,
+      "Kapacitet_i_kw": 800,
+      "Rotor_diameter_i_meter": 50,
+      "Navhøjde_i_meter": 50,
+      "Fabrikat": "Nordex",
+      "Model": "N 50/800"
+    },
+    {
+      "Antal_i_DK": 5,
+      "Kapacitet_i_kw": 800,
+      "Rotor_diameter_i_meter": 50,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "Nordex",
+      "Model": "N 50/800"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 800,
+      "Rotor_diameter_i_meter": 46.6,
+      "Navhøjde_i_meter": 46,
+      "Fabrikat": "Nordex",
+      "Model": "N 50/800"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 800,
+      "Rotor_diameter_i_meter": 48,
+      "Navhøjde_i_meter": 46,
+      "Fabrikat": "Nordex",
+      "Model": "N 50/46"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 800,
+      "Rotor_diameter_i_meter": 50,
+      "Navhøjde_i_meter": 50,
+      "Fabrikat": "Nordex",
+      "Model": "N 50/43"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 599,
+      "Rotor_diameter_i_meter": 46,
+      "Navhøjde_i_meter": 35,
+      "Fabrikat": "Norwin",
+      "Model": "N 46-NH 35"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 599,
+      "Rotor_diameter_i_meter": 46,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "Norwin",
+      "Model": "N 46"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 43,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "Nordex",
+      "Model": "N 43/600-MK lll"
+    },
+    {
+      "Antal_i_DK": 14,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 43,
+      "Navhøjde_i_meter": 46,
+      "Fabrikat": "Nordex",
+      "Model": "N 43/600"
+    },
+    {
+      "Antal_i_DK": 4,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 43,
+      "Navhøjde_i_meter": 40,
+      "Fabrikat": "Nordex",
+      "Model": "N 43/600"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 43,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "Nordex",
+      "Model": "N 43/600"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 43,
+      "Navhøjde_i_meter": 42,
+      "Fabrikat": "Nordex",
+      "Model": "N 43/600"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 43,
+      "Navhøjde_i_meter": 47.5,
+      "Fabrikat": "Nordex",
+      "Model": "N 43/600"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 43,
+      "Navhøjde_i_meter": 40,
+      "Fabrikat": "Nordex",
+      "Model": "N 43-MK lll"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 43,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "Nordex",
+      "Model": "N 43-MK lll"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 43,
+      "Navhøjde_i_meter": 40.5,
+      "Fabrikat": "Nordex",
+      "Model": "N 43"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 43,
+      "Navhøjde_i_meter": 46,
+      "Fabrikat": "Nordex",
+      "Model": "N 43"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 225,
+      "Rotor_diameter_i_meter": 26,
+      "Navhøjde_i_meter": 30,
+      "Fabrikat": "Nordex",
+      "Model": "N 27/225"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 150,
+      "Rotor_diameter_i_meter": 27,
+      "Navhøjde_i_meter": 30,
+      "Fabrikat": "Nordex",
+      "Model": "N 27/150"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 150,
+      "Rotor_diameter_i_meter": 27,
+      "Navhøjde_i_meter": 31.8,
+      "Fabrikat": "Nordex",
+      "Model": "N 27/150"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 150,
+      "Rotor_diameter_i_meter": 27,
+      "Navhøjde_i_meter": 40,
+      "Fabrikat": "Nordex",
+      "Model": "N 27/150"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 150,
+      "Rotor_diameter_i_meter": 27,
+      "Navhøjde_i_meter": 41.5,
+      "Fabrikat": "Nordex",
+      "Model": "N 27/150"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 150,
+      "Rotor_diameter_i_meter": 27,
+      "Navhøjde_i_meter": 40,
+      "Fabrikat": "Nordex",
+      "Model": "N 27"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 250,
+      "Rotor_diameter_i_meter": 27,
+      "Navhøjde_i_meter": 40,
+      "Fabrikat": "Nordex",
+      "Model": "N 27"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 150,
+      "Rotor_diameter_i_meter": 27,
+      "Navhøjde_i_meter": 30,
+      "Fabrikat": "Nordex",
+      "Model": "N 200"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 150,
+      "Rotor_diameter_i_meter": 27,
+      "Navhøjde_i_meter": 30,
+      "Fabrikat": "Nordex",
+      "Model": "N 150"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 150,
+      "Rotor_diameter_i_meter": 27,
+      "Navhøjde_i_meter": 40,
+      "Fabrikat": "Nordex",
+      "Model": "N 150"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 250,
+      "Rotor_diameter_i_meter": 27,
+      "Navhøjde_i_meter": 40,
+      "Fabrikat": "Nordex",
+      "Model": "N 150"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 1300,
+      "Rotor_diameter_i_meter": 62,
+      "Navhøjde_i_meter": 49,
+      "Fabrikat": "BONUS",
+      "Model": "MW 1.3"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 300,
+      "Rotor_diameter_i_meter": 31,
+      "Navhøjde_i_meter": 30,
+      "Fabrikat": "BONUS",
+      "Model": "MW 1.3"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 0.1,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "BONUS",
+      "Model": "MK lV"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 35,
+      "Fabrikat": "BONUS",
+      "Model": "MK lV"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 40,
+      "Fabrikat": "BONUS",
+      "Model": "MK lV"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 450,
+      "Rotor_diameter_i_meter": 37,
+      "Navhøjde_i_meter": 35,
+      "Fabrikat": "BONUS",
+      "Model": "MK lll"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 35,
+      "Fabrikat": "BONUS",
+      "Model": "MK lll"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 40,
+      "Fabrikat": "BONUS",
+      "Model": "MK lll"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 46,
+      "Fabrikat": "BONUS",
+      "Model": "MK lll"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 50,
+      "Fabrikat": "BONUS",
+      "Model": "MK lll"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 450,
+      "Rotor_diameter_i_meter": 36,
+      "Navhøjde_i_meter": 35,
+      "Fabrikat": "BONUS",
+      "Model": "MK ll"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 150,
+      "Rotor_diameter_i_meter": 24,
+      "Navhøjde_i_meter": 30,
+      "Fabrikat": "BONUS",
+      "Model": "MK ll"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 1000,
+      "Rotor_diameter_i_meter": 54,
+      "Navhøjde_i_meter": 50,
+      "Fabrikat": "BONUS",
+      "Model": "MK l"
+    },
+    {
+      "Antal_i_DK": 12,
+      "Kapacitet_i_kw": 400,
+      "Rotor_diameter_i_meter": 31,
+      "Navhøjde_i_meter": 35,
+      "Fabrikat": "Micon",
+      "Model": "M 750_400/100"
+    },
+    {
+      "Antal_i_DK": 10,
+      "Kapacitet_i_kw": 400,
+      "Rotor_diameter_i_meter": 31,
+      "Navhøjde_i_meter": 36,
+      "Fabrikat": "Micon",
+      "Model": "M 750_400/100"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 400,
+      "Rotor_diameter_i_meter": 31,
+      "Navhøjde_i_meter": 37,
+      "Fabrikat": "Micon",
+      "Model": "M 750_400/100"
+    },
+    {
+      "Antal_i_DK": 7,
+      "Kapacitet_i_kw": 400,
+      "Rotor_diameter_i_meter": 31,
+      "Navhøjde_i_meter": 36,
+      "Fabrikat": "Micon",
+      "Model": "M 750_400"
+    },
+    {
+      "Antal_i_DK": 10,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 48,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "Micon",
+      "Model": "M 750_200/48 45"
+    },
+    {
+      "Antal_i_DK": 8,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 48,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "Micon",
+      "Model": "M 750_200/48"
+    },
+    {
+      "Antal_i_DK": 4,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 40,
+      "Fabrikat": "Micon",
+      "Model": "M 750_175/44 40"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "Micon",
+      "Model": "M 750_175/44"
+    },
+    {
+      "Antal_i_DK": 13,
+      "Kapacitet_i_kw": 400,
+      "Rotor_diameter_i_meter": 31,
+      "Navhøjde_i_meter": 36,
+      "Fabrikat": "Micon",
+      "Model": "M 750"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 400,
+      "Rotor_diameter_i_meter": 31,
+      "Navhøjde_i_meter": 37,
+      "Fabrikat": "Micon",
+      "Model": "M 750"
+    },
+    {
+      "Antal_i_DK": 9,
+      "Kapacitet_i_kw": 400,
+      "Rotor_diameter_i_meter": 31,
+      "Navhøjde_i_meter": 36,
+      "Fabrikat": "Micon",
+      "Model": "M 740_400/100"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 48,
+      "Navhøjde_i_meter": 46,
+      "Fabrikat": "Micon",
+      "Model": "M 600/48"
+    },
+    {
+      "Antal_i_DK": 4,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 48,
+      "Navhøjde_i_meter": 46,
+      "Fabrikat": "Micon",
+      "Model": "M 600/150/48"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 48,
+      "Navhøjde_i_meter": 46,
+      "Fabrikat": "Micon",
+      "Model": "M 600/150"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 200,
+      "Rotor_diameter_i_meter": 27,
+      "Navhøjde_i_meter": 30,
+      "Fabrikat": "Micon",
+      "Model": "M 570_200"
+    },
+    {
+      "Antal_i_DK": 6,
+      "Kapacitet_i_kw": 200,
+      "Rotor_diameter_i_meter": 27,
+      "Navhøjde_i_meter": 30,
+      "Fabrikat": "Micon",
+      "Model": "M 570"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 250,
+      "Rotor_diameter_i_meter": 30,
+      "Navhøjde_i_meter": 36,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "M 530_250/50"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 200,
+      "Rotor_diameter_i_meter": 27,
+      "Navhøjde_i_meter": 30,
+      "Fabrikat": "Micon",
+      "Model": "M 530"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 250,
+      "Rotor_diameter_i_meter": 31,
+      "Navhøjde_i_meter": 31,
+      "Fabrikat": "Micon",
+      "Model": "M 530"
+    },
+    {
+      "Antal_i_DK": 5,
+      "Kapacitet_i_kw": 900,
+      "Rotor_diameter_i_meter": 52,
+      "Navhøjde_i_meter": 44,
+      "Fabrikat": "Micon",
+      "Model": "M 52/900_200"
+    },
+    {
+      "Antal_i_DK": 5,
+      "Kapacitet_i_kw": 900,
+      "Rotor_diameter_i_meter": 52.2,
+      "Navhøjde_i_meter": 50,
+      "Fabrikat": "Micon",
+      "Model": "M 52/900"
+    },
+    {
+      "Antal_i_DK": 5,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 48,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "Micon",
+      "Model": "M 48/750"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 48.2,
+      "Navhøjde_i_meter": 43,
+      "Fabrikat": "Micon",
+      "Model": "M 48/750"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 48.2,
+      "Navhøjde_i_meter": 43.6,
+      "Fabrikat": "Micon",
+      "Model": "M 48/750"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 250,
+      "Rotor_diameter_i_meter": 26,
+      "Navhøjde_i_meter": 30,
+      "Fabrikat": "Micon",
+      "Model": "M 450_250"
+    },
+    {
+      "Antal_i_DK": 6,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 46,
+      "Fabrikat": "Micon",
+      "Model": "M 44/750"
+    },
+    {
+      "Antal_i_DK": 4,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 53,
+      "Fabrikat": "Micon",
+      "Model": "M 44/750"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 250,
+      "Rotor_diameter_i_meter": 24,
+      "Navhøjde_i_meter": 30,
+      "Fabrikat": "Micon",
+      "Model": "M 250"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 200,
+      "Rotor_diameter_i_meter": 25.4,
+      "Navhøjde_i_meter": 30,
+      "Fabrikat": "Wincon",
+      "Model": "M 213"
+    },
+    {
+      "Antal_i_DK": 11,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 48,
+      "Navhøjde_i_meter": 46,
+      "Fabrikat": "Micon",
+      "Model": "M 1800_600/150"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 48,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "Micon",
+      "Model": "M 1800_600/150"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 48,
+      "Navhøjde_i_meter": 46.4,
+      "Fabrikat": "Micon",
+      "Model": "M 1800_600/150"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 40,
+      "Navhøjde_i_meter": 46,
+      "Fabrikat": "Micon",
+      "Model": "M 1800_600/150"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 43,
+      "Navhøjde_i_meter": 46,
+      "Fabrikat": "Micon",
+      "Model": "M 1800_600/150"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 48,
+      "Navhøjde_i_meter": 40.3,
+      "Fabrikat": "Micon",
+      "Model": "M 1800_600/150"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 48,
+      "Navhøjde_i_meter": 48,
+      "Fabrikat": "Micon",
+      "Model": "M 1800_600/150"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 46,
+      "Fabrikat": "Micon",
+      "Model": "M 1800_600"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 48,
+      "Navhøjde_i_meter": 46,
+      "Fabrikat": "Micon",
+      "Model": "M 1800_600"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 48,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "Micon",
+      "Model": "M 1800_600"
+    },
+    {
+      "Antal_i_DK": 5,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 48,
+      "Navhøjde_i_meter": 46,
+      "Fabrikat": "Micon",
+      "Model": "M 1800"
+    },
+    {
+      "Antal_i_DK": 4,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 40,
+      "Fabrikat": "Micon",
+      "Model": "M 1500_750/175"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 40.4,
+      "Fabrikat": "Micon",
+      "Model": "M 1500_750/175"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 46,
+      "Fabrikat": "Micon",
+      "Model": "M 1500_750/175"
+    },
+    {
+      "Antal_i_DK": 43,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 42,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "Micon",
+      "Model": "M 1500_600/150"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 43,
+      "Navhøjde_i_meter": 40,
+      "Fabrikat": "Micon",
+      "Model": "M 1500_600/150"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 43,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "Micon",
+      "Model": "M 1500_600/150"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 43,
+      "Navhøjde_i_meter": 42.5,
+      "Fabrikat": "Micon",
+      "Model": "M 1500_600/150"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 43,
+      "Navhøjde_i_meter": 42.7,
+      "Fabrikat": "Micon",
+      "Model": "M 1500_600/150"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 43,
+      "Navhøjde_i_meter": 39,
+      "Fabrikat": "Micon",
+      "Model": "M 1500_600"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 43,
+      "Navhøjde_i_meter": 42.7,
+      "Fabrikat": "Micon",
+      "Model": "M 1500_600"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 43,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "Micon",
+      "Model": "M 1500"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 40,
+      "Fabrikat": "Micon",
+      "Model": "M 1500"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 750,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "Micon",
+      "Model": "M 1500"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 150,
+      "Rotor_diameter_i_meter": 27,
+      "Navhøjde_i_meter": 30,
+      "Fabrikat": "Micon",
+      "Model": "M 150_530"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 10,
+      "Rotor_diameter_i_meter": 7,
+      "Navhøjde_i_meter": 21,
+      "Fabrikat": "KVA Vind",
+      "Model": "KVA Vind 6_10"
+    },
+    {
+      "Antal_i_DK": 5,
+      "Kapacitet_i_kw": 10,
+      "Rotor_diameter_i_meter": 9.3,
+      "Navhøjde_i_meter": 20.3,
+      "Fabrikat": "KVA Vind",
+      "Model": "KVA Vind 10_10"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 10,
+      "Rotor_diameter_i_meter": 9,
+      "Navhøjde_i_meter": 20,
+      "Fabrikat": "KVA Vind",
+      "Model": "KVA Vind 10_10"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 10,
+      "Rotor_diameter_i_meter": 9.3,
+      "Navhøjde_i_meter": 19.4,
+      "Fabrikat": "KVA Vind",
+      "Model": "KVA Vind 10_10"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 10,
+      "Rotor_diameter_i_meter": 9.3,
+      "Navhøjde_i_meter": 20,
+      "Fabrikat": "KVA Vind",
+      "Model": "KVA Vind 10_10"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 10,
+      "Rotor_diameter_i_meter": 9.9,
+      "Navhøjde_i_meter": 20,
+      "Fabrikat": "KVA Vind",
+      "Model": "KVA Vind 10_10"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 10,
+      "Rotor_diameter_i_meter": 7.1,
+      "Navhøjde_i_meter": 21,
+      "Fabrikat": "KVA Vind",
+      "Model": "KVA Vind 10"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 10,
+      "Rotor_diameter_i_meter": 9.3,
+      "Navhøjde_i_meter": 20.3,
+      "Fabrikat": "KVA Vind",
+      "Model": "KVA Vind 10"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 11,
+      "Rotor_diameter_i_meter": 13,
+      "Navhøjde_i_meter": 18,
+      "Fabrikat": "Gaia_Wind Ltd",
+      "Model": "Kolibri 11_Gaia_Wind"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 18,
+      "Rotor_diameter_i_meter": 10.8,
+      "Navhøjde_i_meter": 18,
+      "Fabrikat": "Kuriant",
+      "Model": "KE 18/4"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 18,
+      "Rotor_diameter_i_meter": 10,
+      "Navhøjde_i_meter": 18,
+      "Fabrikat": "Kuriant",
+      "Model": "KE 18"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 15,
+      "Rotor_diameter_i_meter": 18,
+      "Navhøjde_i_meter": 18,
+      "Fabrikat": "Kuriant",
+      "Model": "KE 15"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 11,
+      "Rotor_diameter_i_meter": 10,
+      "Navhøjde_i_meter": 15,
+      "Fabrikat": "Kuriant",
+      "Model": "KE 11"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 1000,
+      "Rotor_diameter_i_meter": 54.2,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "BONUS",
+      "Model": "IMW"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 150,
+      "Rotor_diameter_i_meter": 27,
+      "Navhøjde_i_meter": 31,
+      "Fabrikat": "Wind World",
+      "Model": "ID 178-W 2800"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 55,
+      "Rotor_diameter_i_meter": 15,
+      "Navhøjde_i_meter": 18,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "HVK 55"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 30,
+      "Rotor_diameter_i_meter": 10,
+      "Navhøjde_i_meter": 18,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "HVK 30"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 25,
+      "Rotor_diameter_i_meter": 15,
+      "Navhøjde_i_meter": 17.5,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "HVK 15"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 55,
+      "Rotor_diameter_i_meter": 15,
+      "Navhøjde_i_meter": 22,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "HVK 15"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 55,
+      "Rotor_diameter_i_meter": 15,
+      "Navhøjde_i_meter": 24,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "HVK 15"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 25,
+      "Rotor_diameter_i_meter": 10,
+      "Navhøjde_i_meter": 18,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "HVK 10"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 30,
+      "Rotor_diameter_i_meter": 10,
+      "Navhøjde_i_meter": 15.6,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "HVK 10"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 75,
+      "Rotor_diameter_i_meter": 17.5,
+      "Navhøjde_i_meter": 22,
+      "Fabrikat": "Hanstholm Møllen",
+      "Model": "HM 17 75"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 10,
+      "Rotor_diameter_i_meter": 13,
+      "Navhøjde_i_meter": 18,
+      "Fabrikat": "Gaia_Wind Ltd",
+      "Model": "HB 101"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 11,
+      "Rotor_diameter_i_meter": 13,
+      "Navhøjde_i_meter": 18.3,
+      "Fabrikat": "Gaia_Wind Ltd",
+      "Model": "HB 101"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 10,
+      "Rotor_diameter_i_meter": 13,
+      "Navhøjde_i_meter": 18.2,
+      "Fabrikat": "Gaia_Wind Ltd",
+      "Model": "GW133 10kW"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 10,
+      "Rotor_diameter_i_meter": 13,
+      "Navhøjde_i_meter": 18.3,
+      "Fabrikat": "Gaia_Wind Ltd",
+      "Model": "GW133 10kW"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 10,
+      "Rotor_diameter_i_meter": 12,
+      "Navhøjde_i_meter": 18,
+      "Fabrikat": "Genvind",
+      "Model": "GV 20"
+    },
+    {
+      "Antal_i_DK": 142,
+      "Kapacitet_i_kw": 10,
+      "Rotor_diameter_i_meter": 13,
+      "Navhøjde_i_meter": 18.2,
+      "Fabrikat": "Gaia_Wind Ltd",
+      "Model": "Gaia Wind 133_10 kW"
+    },
+    {
+      "Antal_i_DK": 60,
+      "Kapacitet_i_kw": 10,
+      "Rotor_diameter_i_meter": 13,
+      "Navhøjde_i_meter": 18,
+      "Fabrikat": "Gaia_Wind Ltd",
+      "Model": "Gaia Wind 133_10 kW"
+    },
+    {
+      "Antal_i_DK": 27,
+      "Kapacitet_i_kw": 10,
+      "Rotor_diameter_i_meter": 13,
+      "Navhøjde_i_meter": 18.3,
+      "Fabrikat": "Gaia_Wind Ltd",
+      "Model": "Gaia Wind 133_10 kW"
+    },
+    {
+      "Antal_i_DK": 4,
+      "Kapacitet_i_kw": 10,
+      "Rotor_diameter_i_meter": 13,
+      "Navhøjde_i_meter": 18.4,
+      "Fabrikat": "Gaia_Wind Ltd",
+      "Model": "Gaia Wind 133_10 kW"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 10,
+      "Rotor_diameter_i_meter": 13,
+      "Navhøjde_i_meter": 18.5,
+      "Fabrikat": "Gaia_Wind Ltd",
+      "Model": "Gaia Wind 133_10 kW"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 10,
+      "Rotor_diameter_i_meter": 7.1,
+      "Navhøjde_i_meter": 21.4,
+      "Fabrikat": "Gaia_Wind Ltd",
+      "Model": "Gaia Wind 133_10 kW"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 11,
+      "Rotor_diameter_i_meter": 13,
+      "Navhøjde_i_meter": 18,
+      "Fabrikat": "Gaia_Wind Ltd",
+      "Model": "Gaia 11 T202"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 11,
+      "Rotor_diameter_i_meter": 13,
+      "Navhøjde_i_meter": 24,
+      "Fabrikat": "Gaia_Wind Ltd",
+      "Model": "Gaia 11 "
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 76,
+      "Rotor_diameter_i_meter": 8,
+      "Navhøjde_i_meter": 12,
+      "Fabrikat": "Nordvestjysk Folkecenter",
+      "Model": "FC 4000"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 2000,
+      "Rotor_diameter_i_meter": 82,
+      "Navhøjde_i_meter": 58.7,
+      "Fabrikat": "ENERCON GmbH",
+      "Model": "E_82 E4"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 2100,
+      "Rotor_diameter_i_meter": 82,
+      "Navhøjde_i_meter": 58.7,
+      "Fabrikat": "ENERCON GmbH",
+      "Model": "E_82 E4"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 900,
+      "Rotor_diameter_i_meter": 61,
+      "Navhøjde_i_meter": 46,
+      "Fabrikat": "EWT B.V.",
+      "Model": "DW61_900kW"
+    },
+    {
+      "Antal_i_DK": 6,
+      "Kapacitet_i_kw": 3300,
+      "Rotor_diameter_i_meter": 117,
+      "Navhøjde_i_meter": 91.5,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "DW/52_521_10"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 95,
+      "Rotor_diameter_i_meter": 19,
+      "Navhøjde_i_meter": 24,
+      "Fabrikat": "Tellus",
+      "Model": "DW 95"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 150,
+      "Rotor_diameter_i_meter": 24,
+      "Navhøjde_i_meter": 30,
+      "Fabrikat": "Danwin",
+      "Model": "DW 52_521_10"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 225,
+      "Rotor_diameter_i_meter": 27,
+      "Navhøjde_i_meter": 29,
+      "Fabrikat": "Danwin",
+      "Model": "DW 27_225"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 200,
+      "Rotor_diameter_i_meter": 24,
+      "Navhøjde_i_meter": 30,
+      "Fabrikat": "Danwin",
+      "Model": "DW 24_200"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 180,
+      "Rotor_diameter_i_meter": 23.2,
+      "Navhøjde_i_meter": 30,
+      "Fabrikat": "Danwin",
+      "Model": "DW 23_180"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 180,
+      "Rotor_diameter_i_meter": 23.2,
+      "Navhøjde_i_meter": 30,
+      "Fabrikat": "Danwin",
+      "Model": "DW 23 F"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 180,
+      "Rotor_diameter_i_meter": 23,
+      "Navhøjde_i_meter": 30,
+      "Fabrikat": "Danwin",
+      "Model": "DW 23 C 180/40"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 180,
+      "Rotor_diameter_i_meter": 23,
+      "Navhøjde_i_meter": 30,
+      "Fabrikat": "Danwin",
+      "Model": "d3"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 11,
+      "Rotor_diameter_i_meter": 12.8,
+      "Navhøjde_i_meter": 12,
+      "Fabrikat": "Dansk Vindkraft Service",
+      "Model": "D22/12.8"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 175,
+      "Rotor_diameter_i_meter": 22.2,
+      "Navhøjde_i_meter": 30.7,
+      "Fabrikat": "DWP",
+      "Model": "D 175 S"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 175,
+      "Rotor_diameter_i_meter": 23.5,
+      "Navhøjde_i_meter": 29,
+      "Fabrikat": "DWP",
+      "Model": "D 150"
+    },
+    {
+      "Antal_i_DK": 6,
+      "Kapacitet_i_kw": 300,
+      "Rotor_diameter_i_meter": 31,
+      "Navhøjde_i_meter": 30,
+      "Fabrikat": "BONUS",
+      "Model": "COMBI"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "BONUS",
+      "Model": "Cockie M/C2"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 20,
+      "Rotor_diameter_i_meter": 8,
+      "Navhøjde_i_meter": 13,
+      "Fabrikat": "Ropatec",
+      "Model": "Big Star Vertikal"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 500,
+      "Rotor_diameter_i_meter": 41,
+      "Navhøjde_i_meter": 35,
+      "Fabrikat": "BONUS",
+      "Model": "B_118_1"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 150,
+      "Rotor_diameter_i_meter": 23,
+      "Navhøjde_i_meter": 24.5,
+      "Fabrikat": "Danregn Vindkraft",
+      "Model": "B_100_1 REV.4"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 95,
+      "Rotor_diameter_i_meter": 18,
+      "Navhøjde_i_meter": 24.5,
+      "Fabrikat": "BONUS",
+      "Model": "95_20"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 95,
+      "Rotor_diameter_i_meter": 19.4,
+      "Navhøjde_i_meter": 25,
+      "Fabrikat": "BONUS",
+      "Model": "95_20"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 35,
+      "Fabrikat": "BONUS",
+      "Model": "660 MK lV"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 38,
+      "Navhøjde_i_meter": 40,
+      "Fabrikat": "BONUS",
+      "Model": "600/150"
+    },
+    {
+      "Antal_i_DK": 7,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 50,
+      "Fabrikat": "BONUS",
+      "Model": "600 kW"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 35,
+      "Fabrikat": "BONUS",
+      "Model": "600 kW"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 40,
+      "Fabrikat": "BONUS",
+      "Model": "600 kW"
+    },
+    {
+      "Antal_i_DK": 13,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 46,
+      "Fabrikat": "BONUS",
+      "Model": "600-MK lV"
+    },
+    {
+      "Antal_i_DK": 10,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 35,
+      "Fabrikat": "BONUS",
+      "Model": "600-MK lV"
+    },
+    {
+      "Antal_i_DK": 8,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "BONUS",
+      "Model": "600-MK lV"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 60,
+      "Fabrikat": "BONUS",
+      "Model": "600-MK lV"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 40,
+      "Fabrikat": "BONUS",
+      "Model": "600-MK lV"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 50,
+      "Fabrikat": "BONUS",
+      "Model": "600-MK lV"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 42,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "BONUS",
+      "Model": "600-MK lV"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 36,
+      "Fabrikat": "BONUS",
+      "Model": "600-MK lV"
+    },
+    {
+      "Antal_i_DK": 5,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 35,
+      "Fabrikat": "BONUS",
+      "Model": "600-MK lll C"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "BONUS",
+      "Model": "600-MK lll C"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 50,
+      "Fabrikat": "BONUS",
+      "Model": "600-MK lll C"
+    },
+    {
+      "Antal_i_DK": 12,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 35,
+      "Fabrikat": "BONUS",
+      "Model": "600-MK lll"
+    },
+    {
+      "Antal_i_DK": 12,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 50,
+      "Fabrikat": "BONUS",
+      "Model": "600-MK lll"
+    },
+    {
+      "Antal_i_DK": 6,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "BONUS",
+      "Model": "600-MK lll"
+    },
+    {
+      "Antal_i_DK": 4,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 40,
+      "Fabrikat": "BONUS",
+      "Model": "600-MK lll"
+    },
+    {
+      "Antal_i_DK": 4,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 42,
+      "Fabrikat": "BONUS",
+      "Model": "600-MK lll"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 38,
+      "Navhøjde_i_meter": 50,
+      "Fabrikat": "BONUS",
+      "Model": "600-MK lll"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 46,
+      "Fabrikat": "BONUS",
+      "Model": "600-MK lll"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 35,
+      "Fabrikat": "BONUS",
+      "Model": "600-MK ll"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 40,
+      "Fabrikat": "BONUS",
+      "Model": "600-MK ll"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 41,
+      "Navhøjde_i_meter": 35,
+      "Fabrikat": "BONUS",
+      "Model": "600-MK l"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 35,
+      "Fabrikat": "BONUS",
+      "Model": "600-MK"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 500,
+      "Rotor_diameter_i_meter": 41,
+      "Navhøjde_i_meter": 35,
+      "Fabrikat": "BONUS",
+      "Model": "500 kW"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 500,
+      "Rotor_diameter_i_meter": 41,
+      "Navhøjde_i_meter": 40,
+      "Fabrikat": "BONUS",
+      "Model": "500 kW"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 599,
+      "Rotor_diameter_i_meter": 46,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "Norwin",
+      "Model": "46_ASR_599"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 450,
+      "Rotor_diameter_i_meter": 35,
+      "Navhøjde_i_meter": 35,
+      "Fabrikat": "BONUS",
+      "Model": "450 kW"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 450,
+      "Rotor_diameter_i_meter": 36,
+      "Navhøjde_i_meter": 35,
+      "Fabrikat": "BONUS",
+      "Model": "450 kW"
+    },
+    {
+      "Antal_i_DK": 4,
+      "Kapacitet_i_kw": 450,
+      "Rotor_diameter_i_meter": 37,
+      "Navhøjde_i_meter": 35,
+      "Fabrikat": "BONUS",
+      "Model": "450-MK lll"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 450,
+      "Rotor_diameter_i_meter": 35,
+      "Navhøjde_i_meter": 35,
+      "Fabrikat": "BONUS",
+      "Model": "450-MK l"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 500,
+      "Rotor_diameter_i_meter": 41,
+      "Navhøjde_i_meter": 35,
+      "Fabrikat": "BONUS",
+      "Model": "39_500"
+    },
+    {
+      "Antal_i_DK": 6,
+      "Kapacitet_i_kw": 300,
+      "Rotor_diameter_i_meter": 31,
+      "Navhøjde_i_meter": 30,
+      "Fabrikat": "BONUS",
+      "Model": "300 kW"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 300,
+      "Rotor_diameter_i_meter": 31,
+      "Navhøjde_i_meter": 31,
+      "Fabrikat": "BONUS",
+      "Model": "300 kW"
+    },
+    {
+      "Antal_i_DK": 5,
+      "Kapacitet_i_kw": 300,
+      "Rotor_diameter_i_meter": 31,
+      "Navhøjde_i_meter": 30,
+      "Fabrikat": "BONUS",
+      "Model": "300 COMBI"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 300,
+      "Rotor_diameter_i_meter": 31,
+      "Navhøjde_i_meter": 29.3,
+      "Fabrikat": "BONUS",
+      "Model": "300 COMBI"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 300,
+      "Rotor_diameter_i_meter": 31,
+      "Navhøjde_i_meter": 31,
+      "Fabrikat": "BONUS",
+      "Model": "300 COMBI"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 300,
+      "Rotor_diameter_i_meter": 33.4,
+      "Navhøjde_i_meter": 30,
+      "Fabrikat": "BONUS",
+      "Model": "300-MK lll"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 300,
+      "Rotor_diameter_i_meter": 33.4,
+      "Navhøjde_i_meter": 39,
+      "Fabrikat": "BONUS",
+      "Model": "300-MK lll"
+    },
+    {
+      "Antal_i_DK": 6,
+      "Kapacitet_i_kw": 300,
+      "Rotor_diameter_i_meter": 33.4,
+      "Navhøjde_i_meter": 30,
+      "Fabrikat": "BONUS",
+      "Model": "300-MK ll"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 300,
+      "Rotor_diameter_i_meter": 31,
+      "Navhøjde_i_meter": 31,
+      "Fabrikat": "BONUS",
+      "Model": "300-MK ll"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 300,
+      "Rotor_diameter_i_meter": 33,
+      "Navhøjde_i_meter": 31,
+      "Fabrikat": "BONUS",
+      "Model": "300-MK ll"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 3075,
+      "Rotor_diameter_i_meter": 112,
+      "Navhøjde_i_meter": 84,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "3 MW/112"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 3000,
+      "Rotor_diameter_i_meter": 90,
+      "Navhøjde_i_meter": 80,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "3 MW"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 150,
+      "Rotor_diameter_i_meter": 24,
+      "Navhøjde_i_meter": 30.2,
+      "Fabrikat": "Norwin",
+      "Model": "3 bladet stallreguleret"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 250,
+      "Rotor_diameter_i_meter": 31,
+      "Navhøjde_i_meter": 30,
+      "Fabrikat": "BONUS",
+      "Model": "250 COMBI"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 25,
+      "Rotor_diameter_i_meter": 7,
+      "Navhøjde_i_meter": 18,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "25/7.5 (55/7.5 Ombygget)"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 200,
+      "Rotor_diameter_i_meter": 0.1,
+      "Navhøjde_i_meter": 0.1,
+      "Fabrikat": "Wincon",
+      "Model": "200 kW"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 200,
+      "Rotor_diameter_i_meter": 24,
+      "Navhøjde_i_meter": 28.7,
+      "Fabrikat": "Wincon",
+      "Model": "200 kW"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 150,
+      "Rotor_diameter_i_meter": 23,
+      "Navhøjde_i_meter": 30,
+      "Fabrikat": "BONUS",
+      "Model": "20_150/30"
+    },
+    {
+      "Antal_i_DK": 72,
+      "Kapacitet_i_kw": 2300,
+      "Rotor_diameter_i_meter": 82.4,
+      "Navhøjde_i_meter": 68.8,
+      "Fabrikat": "BONUS",
+      "Model": "2.3 MW"
+    },
+    {
+      "Antal_i_DK": 9,
+      "Kapacitet_i_kw": 2300,
+      "Rotor_diameter_i_meter": 84.6,
+      "Navhøjde_i_meter": 61.2,
+      "Fabrikat": "BONUS",
+      "Model": "2.3 MW"
+    },
+    {
+      "Antal_i_DK": 4,
+      "Kapacitet_i_kw": 2300,
+      "Rotor_diameter_i_meter": 82.4,
+      "Navhøjde_i_meter": 78.8,
+      "Fabrikat": "BONUS",
+      "Model": "2.3 MW"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 2300,
+      "Rotor_diameter_i_meter": 82.4,
+      "Navhøjde_i_meter": 80,
+      "Fabrikat": "BONUS",
+      "Model": "2.3 MW"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 2300,
+      "Rotor_diameter_i_meter": 82.4,
+      "Navhøjde_i_meter": 79,
+      "Fabrikat": "BONUS",
+      "Model": "2 MW (Prototype)"
+    },
+    {
+      "Antal_i_DK": 20,
+      "Kapacitet_i_kw": 2000,
+      "Rotor_diameter_i_meter": 76,
+      "Navhøjde_i_meter": 64,
+      "Fabrikat": "BONUS",
+      "Model": "2 MW"
+    },
+    {
+      "Antal_i_DK": 6,
+      "Kapacitet_i_kw": 2000,
+      "Rotor_diameter_i_meter": 76,
+      "Navhøjde_i_meter": 70,
+      "Fabrikat": "BONUS",
+      "Model": "2 MW"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 2000,
+      "Rotor_diameter_i_meter": 73.4,
+      "Navhøjde_i_meter": 68,
+      "Fabrikat": "BONUS",
+      "Model": "2 MW"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 15,
+      "Rotor_diameter_i_meter": 11,
+      "Navhøjde_i_meter": 18,
+      "Fabrikat": "Bosted",
+      "Model": "18_Bosted"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 75,
+      "Rotor_diameter_i_meter": 17,
+      "Navhøjde_i_meter": 24.5,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "18_75"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 19,
+      "Rotor_diameter_i_meter": 10,
+      "Navhøjde_i_meter": 20,
+      "Fabrikat": "Odder",
+      "Model": "18 SP"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 25,
+      "Rotor_diameter_i_meter": 14,
+      "Navhøjde_i_meter": 18,
+      "Fabrikat": "Windpower D",
+      "Model": "175 kW"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 75,
+      "Rotor_diameter_i_meter": 17,
+      "Navhøjde_i_meter": 30.8,
+      "Fabrikat": "Windmatic",
+      "Model": "17 S"
+    },
+    {
+      "Antal_i_DK": 8,
+      "Kapacitet_i_kw": 150,
+      "Rotor_diameter_i_meter": 23,
+      "Navhøjde_i_meter": 30,
+      "Fabrikat": "BONUS",
+      "Model": "150/30 kW"
+    },
+    {
+      "Antal_i_DK": 4,
+      "Kapacitet_i_kw": 150,
+      "Rotor_diameter_i_meter": 23,
+      "Navhøjde_i_meter": 24.5,
+      "Fabrikat": "BONUS",
+      "Model": "150/30 kW"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 42,
+      "Navhøjde_i_meter": 35,
+      "Fabrikat": "BONUS",
+      "Model": "150/30 kW"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 150,
+      "Rotor_diameter_i_meter": 23,
+      "Navhøjde_i_meter": 24,
+      "Fabrikat": "BONUS",
+      "Model": "150/30 kW"
+    },
+    {
+      "Antal_i_DK": 4,
+      "Kapacitet_i_kw": 150,
+      "Rotor_diameter_i_meter": 24,
+      "Navhøjde_i_meter": 30,
+      "Fabrikat": "BONUS",
+      "Model": "150/30-MK ll"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 150,
+      "Rotor_diameter_i_meter": 23.8,
+      "Navhøjde_i_meter": 30,
+      "Fabrikat": "BONUS",
+      "Model": "150/30-MK ll"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 150,
+      "Rotor_diameter_i_meter": 40,
+      "Navhøjde_i_meter": 30,
+      "Fabrikat": "BONUS",
+      "Model": "150/30-MK ll"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 150,
+      "Rotor_diameter_i_meter": 23,
+      "Navhøjde_i_meter": 30,
+      "Fabrikat": "BONUS",
+      "Model": "150/30"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 150,
+      "Rotor_diameter_i_meter": 24.6,
+      "Navhøjde_i_meter": 32.5,
+      "Fabrikat": "NKT",
+      "Model": "150 XLR"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 150,
+      "Rotor_diameter_i_meter": 23,
+      "Navhøjde_i_meter": 24,
+      "Fabrikat": "BONUS",
+      "Model": "150 kW-239"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 150,
+      "Rotor_diameter_i_meter": 23,
+      "Navhøjde_i_meter": 24,
+      "Fabrikat": "BONUS",
+      "Model": "150 kW"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 150,
+      "Rotor_diameter_i_meter": 23,
+      "Navhøjde_i_meter": 24.5,
+      "Fabrikat": "BONUS",
+      "Model": "150 kW"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 150,
+      "Rotor_diameter_i_meter": 23.2,
+      "Navhøjde_i_meter": 30,
+      "Fabrikat": "BONUS",
+      "Model": "150 kW"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 150,
+      "Rotor_diameter_i_meter": 23.8,
+      "Navhøjde_i_meter": 30,
+      "Fabrikat": "BONUS",
+      "Model": "150 kW"
+    },
+    {
+      "Antal_i_DK": 11,
+      "Kapacitet_i_kw": 450,
+      "Rotor_diameter_i_meter": 37,
+      "Navhøjde_i_meter": 35,
+      "Fabrikat": "BONUS",
+      "Model": "150-MK lll"
+    },
+    {
+      "Antal_i_DK": 9,
+      "Kapacitet_i_kw": 150,
+      "Rotor_diameter_i_meter": 23.8,
+      "Navhøjde_i_meter": 30,
+      "Fabrikat": "BONUS",
+      "Model": "150-MK lll"
+    },
+    {
+      "Antal_i_DK": 4,
+      "Kapacitet_i_kw": 150,
+      "Rotor_diameter_i_meter": 23,
+      "Navhøjde_i_meter": 30,
+      "Fabrikat": "BONUS",
+      "Model": "150-MK lll"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 150,
+      "Rotor_diameter_i_meter": 24,
+      "Navhøjde_i_meter": 30,
+      "Fabrikat": "BONUS",
+      "Model": "150-MK lll"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 150,
+      "Rotor_diameter_i_meter": 33.4,
+      "Navhøjde_i_meter": 30,
+      "Fabrikat": "BONUS",
+      "Model": "150-MK lll"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 150,
+      "Rotor_diameter_i_meter": 23,
+      "Navhøjde_i_meter": 30,
+      "Fabrikat": "BONUS",
+      "Model": "150-MK ll"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 150,
+      "Rotor_diameter_i_meter": 23.8,
+      "Navhøjde_i_meter": 30,
+      "Fabrikat": "BONUS",
+      "Model": "150-MK ll"
+    },
+    {
+      "Antal_i_DK": 4,
+      "Kapacitet_i_kw": 150,
+      "Rotor_diameter_i_meter": 23,
+      "Navhøjde_i_meter": 24.5,
+      "Fabrikat": "BONUS",
+      "Model": "150-MK l"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 55,
+      "Rotor_diameter_i_meter": 15.5,
+      "Navhøjde_i_meter": 18,
+      "Fabrikat": "Windmatic",
+      "Model": "15 S"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 1300,
+      "Rotor_diameter_i_meter": 62,
+      "Navhøjde_i_meter": 49,
+      "Fabrikat": "BONUS",
+      "Model": "1300/250"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 1300,
+      "Rotor_diameter_i_meter": 62,
+      "Navhøjde_i_meter": 49,
+      "Fabrikat": "BONUS",
+      "Model": "1300 kW"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 1300,
+      "Rotor_diameter_i_meter": 62,
+      "Navhøjde_i_meter": 60,
+      "Fabrikat": "BONUS",
+      "Model": "1300 kW"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 11,
+      "Rotor_diameter_i_meter": 13,
+      "Navhøjde_i_meter": 18.2,
+      "Fabrikat": "WEG",
+      "Model": "11 kW"
+    },
+    {
+      "Antal_i_DK": 11,
+      "Kapacitet_i_kw": 1000,
+      "Rotor_diameter_i_meter": 54,
+      "Navhøjde_i_meter": 50,
+      "Fabrikat": "BONUS",
+      "Model": "1000 kW"
+    },
+    {
+      "Antal_i_DK": 7,
+      "Kapacitet_i_kw": 1300,
+      "Rotor_diameter_i_meter": 62,
+      "Navhøjde_i_meter": 68,
+      "Fabrikat": "BONUS",
+      "Model": "1.3 MW"
+    },
+    {
+      "Antal_i_DK": 4,
+      "Kapacitet_i_kw": 1300,
+      "Rotor_diameter_i_meter": 62,
+      "Navhøjde_i_meter": 49,
+      "Fabrikat": "BONUS",
+      "Model": "1.3 MW"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 1300,
+      "Rotor_diameter_i_meter": 62,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "BONUS",
+      "Model": "1.3 MW"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 1300,
+      "Rotor_diameter_i_meter": 62,
+      "Navhøjde_i_meter": 69,
+      "Fabrikat": "BONUS",
+      "Model": "1.3 MW"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 1300,
+      "Rotor_diameter_i_meter": 62,
+      "Navhøjde_i_meter": 0,
+      "Fabrikat": "BONUS",
+      "Model": "1.3 MW"
+    },
+    {
+      "Antal_i_DK": 7,
+      "Kapacitet_i_kw": 1000,
+      "Rotor_diameter_i_meter": 54.2,
+      "Navhøjde_i_meter": 50,
+      "Fabrikat": "BONUS",
+      "Model": "1 MW-690 V"
+    },
+    {
+      "Antal_i_DK": 3,
+      "Kapacitet_i_kw": 1000,
+      "Rotor_diameter_i_meter": 54.2,
+      "Navhøjde_i_meter": 47.9,
+      "Fabrikat": "BONUS",
+      "Model": "1 MW-690 V"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 1000,
+      "Rotor_diameter_i_meter": 54,
+      "Navhøjde_i_meter": 48,
+      "Fabrikat": "BONUS",
+      "Model": "1 MW-690 V"
+    },
+    {
+      "Antal_i_DK": 32,
+      "Kapacitet_i_kw": 1000,
+      "Rotor_diameter_i_meter": 54.2,
+      "Navhøjde_i_meter": 47.8,
+      "Fabrikat": "BONUS",
+      "Model": "1 MW"
+    },
+    {
+      "Antal_i_DK": 17,
+      "Kapacitet_i_kw": 1000,
+      "Rotor_diameter_i_meter": 54.2,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "BONUS",
+      "Model": "1 MW"
+    },
+    {
+      "Antal_i_DK": 14,
+      "Kapacitet_i_kw": 1000,
+      "Rotor_diameter_i_meter": 54,
+      "Navhøjde_i_meter": 50,
+      "Fabrikat": "BONUS",
+      "Model": "1 MW"
+    },
+    {
+      "Antal_i_DK": 14,
+      "Kapacitet_i_kw": 1000,
+      "Rotor_diameter_i_meter": 54.2,
+      "Navhøjde_i_meter": 50,
+      "Fabrikat": "BONUS",
+      "Model": "1 MW"
+    },
+    {
+      "Antal_i_DK": 13,
+      "Kapacitet_i_kw": 1000,
+      "Rotor_diameter_i_meter": 54,
+      "Navhøjde_i_meter": 45,
+      "Fabrikat": "BONUS",
+      "Model": "1 MW"
+    },
+    {
+      "Antal_i_DK": 5,
+      "Kapacitet_i_kw": 1000,
+      "Rotor_diameter_i_meter": 54.2,
+      "Navhøjde_i_meter": 46,
+      "Fabrikat": "BONUS",
+      "Model": "1 MW"
+    },
+    {
+      "Antal_i_DK": 4,
+      "Kapacitet_i_kw": 1000,
+      "Rotor_diameter_i_meter": 54,
+      "Navhøjde_i_meter": 48,
+      "Fabrikat": "BONUS",
+      "Model": "1 MW"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 1000,
+      "Rotor_diameter_i_meter": 54,
+      "Navhøjde_i_meter": 47.9,
+      "Fabrikat": "BONUS",
+      "Model": "1 MW"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 1000,
+      "Rotor_diameter_i_meter": 54,
+      "Navhøjde_i_meter": 60,
+      "Fabrikat": "BONUS",
+      "Model": "1 MW"
+    },
+    {
+      "Antal_i_DK": 2,
+      "Kapacitet_i_kw": 1000,
+      "Rotor_diameter_i_meter": 75,
+      "Navhøjde_i_meter": 48,
+      "Fabrikat": "BONUS",
+      "Model": "1 MW"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 1000,
+      "Rotor_diameter_i_meter": 48,
+      "Navhøjde_i_meter": 48,
+      "Fabrikat": "BONUS",
+      "Model": "1 MW"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 1000,
+      "Rotor_diameter_i_meter": 54.2,
+      "Navhøjde_i_meter": 48,
+      "Fabrikat": "BONUS",
+      "Model": "1 MW"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 1000,
+      "Rotor_diameter_i_meter": 54.2,
+      "Navhøjde_i_meter": 60,
+      "Fabrikat": "BONUS",
+      "Model": "1 MW"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 600,
+      "Rotor_diameter_i_meter": 44,
+      "Navhøjde_i_meter": 40,
+      "Fabrikat": "BONUS",
+      "Model": "0.6 MW-690 V"
+    },
+    {
+      "Antal_i_DK": 4,
+      "Kapacitet_i_kw": 900,
+      "Rotor_diameter_i_meter": 52,
+      "Navhøjde_i_meter": 54,
+      "Fabrikat": "Vestas Wind Systems A/S",
+      "Model": "900"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 200,
+      "Rotor_diameter_i_meter": 31,
+      "Navhøjde_i_meter": 30,
+      "Fabrikat": "BONUS",
+      "Model": "200"
+    },
+    {
+      "Antal_i_DK": 1,
+      "Kapacitet_i_kw": 160,
+      "Rotor_diameter_i_meter": 23.6,
+      "Navhøjde_i_meter": 30.6,
+      "Fabrikat": "DWP",
+      "Model": "175"
+    }
+   ]

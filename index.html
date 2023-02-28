@@ -9,22 +9,41 @@
     <title>Document</title>
 </head>
 <body>
-    <article class="art1">
-        <p>div</p>
-        <p>div</p>
-        <p>div</p>
-    </article>
-
-    <article class="art2">
-        <p>div</p>
-        <p>div</p>
-        <p>div</p>
-    </article>
-    
-    <article class="art3">
-        <p>div</p>
-        <p>div</p>
-        <p>div</p>
-    </article>
+    <select name="" id="simType">
+        <option value="">Vælg type af simulation</option>
+        <option value="">Ydelse ved bestemt vindstyrke</option>
+        <option value="">Ydelse på bestemt placering</option>
+        <option value="">Brugerdefinieret simulation</option>
+    </select>
+    <select name="" id="fabrikantSelect" onchange="model(this)">
+        <option value="">Vælg Fabrikant</option>
+    </select>
+    <select name="" id="modelSelect" onchange="type(this)">
+        <option value="">Vælg model</option>
+    </select>
+    <select name="" id="typeSelect">
+        <option value="">Vælg type</option>
+    </select>
+    <select name="" id="daySelect" >
+        <option value="0">Vælg dage</option>
+        <option value="1">1</option>
+        <option value="2">2</option>
+        <option value="3">3</option>
+        <option value="4">4</option>
+        <option value="5">5</option>
+        <option value="6">6</option>
+        <option value="7">7</option>
+    </select>
+<input type="number" name="" id="vind" placeholder="Vindstyrke">
+    <div id="timerDiv">
+        <h1 id="day">Dag:</h1>
+        <h2 id="hour">Timer:</h2>
+    </div>
+<Button onclick="timer()">Start</Button>
+<div>
+    <canvas id="myChart"></canvas>
+  </div>
+  
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 </body>
 </html>
