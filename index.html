@@ -6,44 +6,203 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./styles/main.css">
     <script src="./js/script.js" defer></script>
-    <title>Document</title>
+    <title>WindSim</title>
 </head>
 <body>
-    <select name="" id="simType">
-        <option value="">Vælg type af simulation</option>
-        <option value="">Ydelse ved bestemt vindstyrke</option>
-        <option value="">Ydelse på bestemt placering</option>
-        <option value="">Brugerdefinieret simulation</option>
-    </select>
-    <select name="" id="fabrikantSelect" onchange="model(this)">
-        <option value="">Vælg Fabrikant</option>
-    </select>
-    <select name="" id="modelSelect" onchange="type(this)">
-        <option value="">Vælg model</option>
-    </select>
-    <select name="" id="typeSelect">
-        <option value="">Vælg type</option>
-    </select>
-    <select name="" id="daySelect" >
-        <option value="0">Vælg dage</option>
-        <option value="1">1</option>
-        <option value="2">2</option>
-        <option value="3">3</option>
-        <option value="4">4</option>
-        <option value="5">5</option>
-        <option value="6">6</option>
-        <option value="7">7</option>
-    </select>
-<input type="number" name="" id="vind" placeholder="Vindstyrke">
-    <div id="timerDiv">
-        <h1 id="day">Dag:</h1>
-        <h2 id="hour">Timer:</h2>
-    </div>
-<Button onclick="timer()">Start</Button>
-<div>
-    <canvas id="myChart"></canvas>
-  </div>
+    <header><img src="./assets/Whitelogo.png" alt="Logo">WindSim</header>
+    <main>
+    <section id="sidebar">
+        <select name="" id="simType" onchange="simType(this)">
+            <option value="0">Vælg type af simulation</option>
+            <option value="1">Ydelse ved bestemt vindstyrke</option>
+            <option value="2">Ydelse på bestemt placering</option>
+            <option value="3">Brugerdefinieret simulation</option>
+        </select>
+        <select name="" id="fabrikantSelect" onchange="model(this)">
+            <option value="">Vælg Fabrikant</option>
+        </select>
+        <select name="" id="modelSelect" onchange="types(this)">
+            <option value="">Vælg model</option>
+        </select>
+        <!-- <select name="" id="typeSelect">
+            <option value="">Vælg kapacitet</option>
+        </select> -->
+        <select name="" id="daySelect" >
+            <option value="0">Vælg dage</option>
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+            <option value="6">6</option>
+            <option value="7">7</option>
+        </select>
+    <input type="number" name="" id="vind" placeholder="Vindstyrke">
+        
+        <Button onclick="timer()">Start</Button>
+        <h3>Vindmøllens mål</h3>
+<ul id="millSpecs">
+    <li>Fabrikat: </li>
+    <li>Model: </li>
+    <li>Rotor diameter:  m</li>
+    <li>Navhøjde:  m</li>
+    <li>Rotorareal:  m2</li>
+    <li>Turbine total height:  m</li>
+    <li>Type af placering: </li>
+    </ul>
+    </section>
+    <section id="main">
+<article id="resultArticle">
+<div id="timerDiv">
+    <h1 id="day">Dag:</h1>
+    <h2 id="hour">Timer:</h2>
+</div>
+
+  <h2>Configuration settings	</h2>
+  <ul>
+    <li>Wind Speed Range	4 - 16 m/s </li>
+    <li>Power Range	1000 - 24000 kw </li>
+    <li>Sim speed	Normal speed </li>
+  </ul>
+  <h2>Current simulation values	</h2>
+  <ul>
+    <li>Current Wind	10 m/s </li>
+    <li>Current Output	11500 kw </li>
+    <li>Huse på 100% strøm: 18 </li>
+  </ul>
+  <h2>Simulation Status	</h2>
+  <ul>
+    <li>Sim Status	Running </li>
+    <li>Current Output	11500 kw </li>
+    <li>Time of Day	06.45 </li>
+  </ul>
+  <div>
+        <canvas id="myChart"></canvas>
+      </div>
+      
+      <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    </article>
+    <article id="imgArticle">
+    <div class="container">
+        <div class="stolby">
+         <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+             width="511.411px" height="407.229px" viewBox="0 0 511.411 407.229" enable-background="new 0 0 511.411 407.229"
+             xml:space="preserve">
+        <g>
+            <polygon points="374.238,407.229 336.238,407.229 346.238,32.229 364.238,32.229 	"/>
+            <linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="374.3179" y1="233.0791" x2="332.9839" y2="234.4131">
+                <stop  offset="0" style="stop-color:#6A4301"/>
+                <stop  offset="0.1656" style="stop-color:#030500"/>
+                <stop  offset="0.4969" style="stop-color:#06224B"/>
+                <stop  offset="1" style="stop-color:#132457"/>
+            </linearGradient>
+            <path fill="url(#SVGID_1_)" d="M354.571,60.562c-3.076,0-6.105-0.24-9.07-0.698l-9.263,347.365h38l-9.27-347.601
+                C361.581,60.229,358.11,60.562,354.571,60.562z"/>
+            <path fill="#010E2B" d="M365.125,0.643c0,0-45.873,12.13-40.393,26.906c5.48,14.776,50.432,2.771,50.432,2.771
+                s14.19-8.514,7.741-21.09C376.238-3.771,365.125,0.643,365.125,0.643z"/>
+            <g>
+                <path d="M382.905,9.229c-0.193-0.376-0.391-0.734-0.591-1.082c0.701,8.776-8.046,15.199-8.046,15.199s-41.478,15.309-49.883,2.916
+                    c0.074,0.427,0.187,0.855,0.347,1.287c5.48,14.776,50.432,2.771,50.432,2.771S389.354,21.806,382.905,9.229z"/>
+                <path fill="#010E2B" d="M374.268,23.346c0,0,8.747-6.422,8.046-15.199c-6.711-11.663-17.189-7.504-17.189-7.504
+                    s-43.229,11.432-40.739,25.619C332.791,38.655,374.268,23.346,374.268,23.346z"/>
+            </g>
+            <circle cx="369.561" cy="15.612" r="15.611"/>
+            <path fill="#8C330C" d="M351.489,8.312c0,0-20.962,7.299-23.834,14.25c-2.146,5.193,22.5-2.667,22.5-2.667s-1.083-2.333-0.666-6
+                S351.489,8.312,351.489,8.312"/>
+        </g>
+        <g opacity="0.95">
+            <polygon points="505.428,407.268 484.645,407.268 490.115,202.164 499.959,202.164 	"/>
+            <linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="505.4741" y1="312.0166" x2="482.8659" y2="312.7462">
+                <stop  offset="0" style="stop-color:#6A4301"/>
+                <stop  offset="0.1656" style="stop-color:#030500"/>
+                <stop  offset="0.4969" style="stop-color:#06224B"/>
+                <stop  offset="1" style="stop-color:#132457"/>
+            </linearGradient>
+            <path fill="url(#SVGID_4_)" d="M494.671,217.661c-1.681,0-3.339-0.133-4.961-0.383l-5.065,189.989h20.783l-5.068-190.118
+                C498.505,217.479,496.608,217.661,494.671,217.661z"/>
+            <path fill="#010E2B" d="M500.444,184.889c0,0-25.089,6.635-22.093,14.716c2.999,8.082,27.583,1.516,27.583,1.516
+                s7.762-4.657,4.234-11.535C506.522,182.475,500.444,184.889,500.444,184.889z"/>
+            <g>
+                <path d="M510.168,189.585c-0.104-0.206-0.212-0.401-0.322-0.592c0.384,4.8-4.4,8.312-4.4,8.312s-22.686,8.374-27.283,1.596
+                    c0.041,0.232,0.102,0.467,0.188,0.703c2.999,8.082,27.583,1.516,27.583,1.516S513.696,196.463,510.168,189.585z"/>
+                <path fill="#010E2B" d="M505.446,197.306c0,0,4.784-3.513,4.4-8.312c-3.671-6.379-9.402-4.104-9.402-4.104
+                    s-23.643,6.252-22.281,14.013C482.76,205.68,505.446,197.306,505.446,197.306z"/>
+            </g>
+            <circle cx="502.872" cy="193.075" r="8.539"/>
+            <path fill="#8C330C" d="M492.986,189.084c0,0-11.465,3.991-13.035,7.793c-1.173,2.84,12.308-1.458,12.308-1.458
+                s-0.594-1.276-0.365-3.282C492.122,190.132,492.986,189.084,492.986,189.084"/>
+        </g>
+        </svg>
+        </div>
+        <div id="v1">
+        <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+             width="386.318px" height="383.263px" viewBox="0 0 386.318 383.263" enable-background="new 0 0 386.318 383.263"
+             xml:space="preserve">
+        <g>
+            <g>
+                <path d="M130.94,3.861c0,0,22.969,107.389,27.945,126.642c7.857,30.4,27.35,60.646,27.35,60.646l12.485-2.974
+                    c0,0-59.456-196.799-67.78-187.881"/>
+                <path d="M48.472,334.449c0,0,85.37-69.078,100.287-82.228c23.553-20.765,41.703-51.834,41.703-51.834l-8.302-9.789
+                    c0,0-148.589,142.079-136.869,145.465"/>
+                <path d="M383.356,248.43c0,0-101.435-42.082-120.107-48.92c-29.485-10.797-65.449-11.929-65.449-11.929l-4.644,11.965
+                    c0,0,195.751,62.826,193.136,50.909"/>
+            </g>
+            <circle cx="193.021" cy="192.458" r="14.449"/>
+        </g>
+        </svg>
+          </div>
+          
+         
+         <div id="v1">
+        <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+             width="386.318px" height="383.263px" viewBox="0 0 386.318 383.263" enable-background="new 0 0 386.318 383.263"
+             xml:space="preserve">
+        <g>
+            <g>
+                <path d="M130.94,3.861c0,0,22.969,107.389,27.945,126.642c7.857,30.4,27.35,60.646,27.35,60.646l12.485-2.974
+                    c0,0-59.456-196.799-67.78-187.881"/>
+                <path d="M48.472,334.449c0,0,85.37-69.078,100.287-82.228c23.553-20.765,41.703-51.834,41.703-51.834l-8.302-9.789
+                    c0,0-148.589,142.079-136.869,145.465"/>
+                <path d="M383.356,248.43c0,0-101.435-42.082-120.107-48.92c-29.485-10.797-65.449-11.929-65.449-11.929l-4.644,11.965
+                    c0,0,195.751,62.826,193.136,50.909"/>
+            </g>
+            <circle cx="193.021" cy="192.458" r="14.449"/>
+        </g>
+        </svg>
+          </div>
+          
+         
+          
+          
+          <div id="v3">
+        <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+             width="386.318px" height="383.263px" viewBox="0 0 386.318 383.263" enable-background="new 0 0 386.318 383.263"
+             xml:space="preserve">
+        <g>
+            <g>
+                <path d="M130.94,3.861c0,0,22.969,107.389,27.945,126.642c7.857,30.4,27.35,60.646,27.35,60.646l12.485-2.974
+                    c0,0-59.456-196.799-67.78-187.881"/>
+                <path d="M48.472,334.449c0,0,85.37-69.078,100.287-82.228c23.553-20.765,41.703-51.834,41.703-51.834l-8.302-9.789
+                    c0,0-148.589,142.079-136.869,145.465"/>
+                <path d="M383.356,248.43c0,0-101.435-42.082-120.107-48.92c-29.485-10.797-65.449-11.929-65.449-11.929l-4.644,11.965
+                    c0,0,195.751,62.826,193.136,50.909"/>
+            </g>
+            <circle cx="193.021" cy="192.458" r="14.449"/>
+        </g>
+        </svg>
+          </div>
+          
+          
+        </div>
+        
+  </article>
+    </section>
+
+    
+
   
-  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    </main>
+
+
 </body>
 </html>

@@ -11,8 +11,34 @@ fetch('../models.json')
             
         });
     });
-
-    
+    function sweptArea(radius) {
+      const bladeArea = Math.PI * radius ** 2; // Calculate the area of one blade
+      const totalArea = bladeArea * 1; // Multiply by the number of blades
+      return totalArea;
+    }
+    function simType(obj) {
+      switch (obj.value) {
+        case "0":
+          console.log(obj.value);
+          document.querySelector("#vind").style.display = "none"
+          break;
+          case "1":
+            console.log(obj.value);
+            document.querySelector("#vind").style.display = "block"
+            break;
+            case "2":
+              console.log(obj.value);
+              document.querySelector("#vind").style.display = "none"
+              break;
+              case "3":
+                console.log(obj.value);
+                document.querySelector("#vind").style.display = "block"
+                break;
+        default:
+          console.log(obj.value);
+          break;
+      }
+    }
     function model(obj) {
         
         fetch('../models.json')
@@ -21,7 +47,12 @@ fetch('../models.json')
      
             document.querySelector("#modelSelect").innerHTML = ``
             json.forEach(element => {
-              if (element.Fabrikat === obj.value) {
+              
+
+              console.log(obj.options[obj.options.selectedIndex].innerText);
+
+              if (element.Fabrikat === obj.options[obj.options.selectedIndex].innerText) {
+                
                document.querySelector("#modelSelect").innerHTML += `<option value=${element.Model}>${element.Model}</option>`
             }  
             });
@@ -29,18 +60,47 @@ fetch('../models.json')
         });
 }
 
-function type(obj) {
+function types(obj) {
    let types = []     
     fetch('../models.json')
     .then((response) => response.json())
     .then((json) => {
  
-        document.querySelector("#typeSelect").innerHTML = ``
+        document.querySelector("#millSpecs").innerHTML = ``
         json.forEach(element => {
-          if (element.Model === obj.value) {
-            if (!types.includes(element.Rotor_diameter_i_meter)) {
-                document.querySelector("#typeSelect").innerHTML += `<option value=${element.Rotor_diameter_i_meter}>${element.Rotor_diameter_i_meter}</option>`
-                types.push(element.Rotor_diameter_i_meter)
+
+          if (element.Model === obj.options[obj.options.selectedIndex].innerText) {
+            if (!types.includes(element.Kapacitet_i_kw)) {
+                document.querySelector("#millSpecs").innerHTML += 
+                `
+                <li>Fabrikat: ${element.Fabrikat}</li>
+                <li>Model: ${element.Model}</li>
+                <li>Kapacitet: ${element.Kapacitet_i_kw} kW</li>
+                <li>Rotor diameter: ${element.Rotor_diameter_i_meter} m</li>
+                <li>Navhøjde: ${element.Navhøjde_i_meter} m</li>
+                <li>Rotorareal: ${sweptArea(element.Rotor_diameter_i_meter / 2 ).toFixed(2)} m2</li>
+                <li>Turbine total height: ${element.Navhøjde_i_meter + element.Rotor_diameter_i_meter} m</li>
+                `
+               
+            }
+          
+        }  
+        });
+        
+    });
+}
+
+function specs(obj) {
+  fetch('../models.json')
+    .then((response) => response.json())
+    .then((json) => {
+ 
+        document.querySelector("#millSpecs").innerHTML = ``
+        json.forEach(element => {
+          if (element.Model === obj.options[obj.options.selectedIndex].innerText) {
+            if (!types.includes(element.Kapacitet_i_kw)) {
+                document.querySelector("#millSpecs").innerHTML += `<option value=${element.Kapacitet_i_kw}>${element.Kapacitet_i_kw}</option>`
+                
             }
           
         }  
