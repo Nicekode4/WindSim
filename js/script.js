@@ -40,28 +40,31 @@ fetch('../models.json')
       }
     }
     function model(obj) {
-        
+      let model = []  
         fetch('../models.json')
         .then((response) => response.json())
         .then((json) => {
      
             document.querySelector("#modelSelect").innerHTML = ``
             json.forEach(element => {
+
+
               
 
-              console.log(obj.options[obj.options.selectedIndex].innerText);
-
               if (element.Fabrikat === obj.options[obj.options.selectedIndex].innerText) {
-                
-               document.querySelector("#modelSelect").innerHTML += `<option value=${element.Model}>${element.Model}</option>`
-            }  
+                if (!model.includes(element.Model)) {
+                  document.querySelector("#modelSelect").innerHTML += `<option value=${element.Model}>${element.Model}</option>`
+                    model.push(element.Model)  
+                }
+                           }  
             });
             
         });
 }
 
 function types(obj) {
-   let types = []     
+   let types = []   
+   let typelength = []  
     fetch('../models.json')
     .then((response) => response.json())
     .then((json) => {
@@ -70,19 +73,35 @@ function types(obj) {
         json.forEach(element => {
 
           if (element.Model === obj.options[obj.options.selectedIndex].innerText) {
-            if (!types.includes(element.Kapacitet_i_kw)) {
-                document.querySelector("#millSpecs").innerHTML += 
-                `
-                <li>Fabrikat: ${element.Fabrikat}</li>
-                <li>Model: ${element.Model}</li>
-                <li>Kapacitet: ${element.Kapacitet_i_kw} kW</li>
-                <li>Rotor diameter: ${element.Rotor_diameter_i_meter} m</li>
-                <li>Navhøjde: ${element.Navhøjde_i_meter} m</li>
-                <li>Rotorareal: ${sweptArea(element.Rotor_diameter_i_meter / 2 ).toFixed(2)} m2</li>
-                <li>Turbine total height: ${element.Navhøjde_i_meter + element.Rotor_diameter_i_meter} m</li>
-                `
+            if (!types.includes(element.Rotor_diameter_i_meter)) {
+              typelength.push(element.Rotor_diameter_i_meter)
+              console.log(typelength.length);
+              document.querySelector("#typeSelect").innerHTML = ``
+              if (typelength.length === 1) {
+              
+              document.querySelector("#millSpecs").innerHTML += 
+              `
+              <li>Fabrikat: ${element.Fabrikat}</li>
+              <li>Model: ${element.Model}</li>
+              <li>Aktive i Danmark: ${element.Antal_i_DK}</li>
+              <li>Kapacitet: ${element.Kapacitet_i_kw} kW</li>
+              <li>Rotor diameter: ${element.Rotor_diameter_i_meter} m</li>
+              <li>Rotor radius: ${element.Rotor_diameter_i_meter / 2} m</li>
+              <li>Navhøjde: ${element.Navhøjde_i_meter} m</li>
+              <li>Rotorareal: ${sweptArea(element.Rotor_diameter_i_meter / 2 ).toFixed(2)} m2</li>
+              <li>Turbine total height: ${element.Navhøjde_i_meter + element.Rotor_diameter_i_meter} m</li>
+              `
+              document.querySelector("#typeSelect").innerHTML += `<option value=${element.Rotor_diameter_i_meter / 2}>${element.Rotor_diameter_i_meter / 2}</option>`
+
+            }else{
+              
+              document.querySelector("#typeSelect").innerHTML += `<option value=${element.Rotor_diameter_i_meter / 2}>${element.Rotor_diameter_i_meter / 2}</option>`
+
+            }
+                
                
             }
+            
           
         }  
         });
@@ -91,17 +110,25 @@ function types(obj) {
 }
 
 function specs(obj) {
+  console.log("æl");
   fetch('../models.json')
     .then((response) => response.json())
     .then((json) => {
- 
         document.querySelector("#millSpecs").innerHTML = ``
         json.forEach(element => {
-          if (element.Model === obj.options[obj.options.selectedIndex].innerText) {
-            if (!types.includes(element.Kapacitet_i_kw)) {
-                document.querySelector("#millSpecs").innerHTML += `<option value=${element.Kapacitet_i_kw}>${element.Kapacitet_i_kw}</option>`
-                
-            }
+          if (element.Rotor_diameter_i_meter === obj.options[obj.options.selectedIndex].innerText) {
+            document.querySelector("#millSpecs").innerHTML += 
+                `
+                <li>Fabrikat: ${element.Fabrikat}</li>
+                <li>Model: ${element.Model}</li>
+                <li>Aktive i Danmark: ${element.Antal_i_DK}</li>
+                <li>Kapacitet: ${element.Kapacitet_i_kw} kW</li>
+                <li>Rotor diameter: ${element.Rotor_diameter_i_meter} m</li>
+                <li>Rotor radius: ${element.Rotor_diameter_i_meter / 2} m</li>
+                <li>Navhøjde: ${element.Navhøjde_i_meter} m</li>
+                <li>Rotorareal: ${sweptArea(element.Rotor_diameter_i_meter / 2 ).toFixed(2)} m2</li>
+                <li>Turbine total height: ${element.Navhøjde_i_meter + element.Rotor_diameter_i_meter} m</li>
+                `
           
         }  
         });
@@ -146,6 +173,8 @@ function timer() {
     let days = parseInt(document.querySelector("#daySelect").value)
     let runtime = 10000 / 5
     document.querySelector("#day").innerHTML = "Dag: 1" 
+    document.querySelector("#status").innerHTML = "Status: I gang"
+    
     
     let interval2 = setInterval(() => {
         if (count2 < 24 + 1) {
@@ -159,7 +188,7 @@ function timer() {
             
          document.querySelector("#day").innerHTML = "Dag: " + count++ 
         }else{
-            
+          document.querySelector("#status").innerHTML = "Status: Færdig"
             clearInterval(interval2)
             
         }

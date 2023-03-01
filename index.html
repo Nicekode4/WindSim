@@ -24,9 +24,9 @@
         <select name="" id="modelSelect" onchange="types(this)">
             <option value="">Vælg model</option>
         </select>
-        <!-- <select name="" id="typeSelect">
-            <option value="">Vælg kapacitet</option>
-        </select> -->
+        <select name="" id="typeSelect" onchange="specs(obj)">
+            <option value="">Vælg vinge længde</option>
+        </select>
         <select name="" id="daySelect" >
             <option value="0">Vælg dage</option>
             <option value="1">1</option>
@@ -39,16 +39,9 @@
         </select>
     <input type="number" name="" id="vind" placeholder="Vindstyrke">
         
-        <Button onclick="timer()">Start</Button>
+        <Button id="startBtn" onclick="timer()">Start</Button>
         <h3>Vindmøllens mål</h3>
 <ul id="millSpecs">
-    <li>Fabrikat: </li>
-    <li>Model: </li>
-    <li>Rotor diameter:  m</li>
-    <li>Navhøjde:  m</li>
-    <li>Rotorareal:  m2</li>
-    <li>Turbine total height:  m</li>
-    <li>Type af placering: </li>
     </ul>
     </section>
     <section id="main">
@@ -58,23 +51,19 @@
     <h2 id="hour">Timer:</h2>
 </div>
 
-  <h2>Configuration settings	</h2>
+  <h2>Parametere</h2>
   <ul>
-    <li>Wind Speed Range	4 - 16 m/s </li>
-    <li>Power Range	1000 - 24000 kw </li>
-    <li>Sim speed	Normal speed </li>
-  </ul>
-  <h2>Current simulation values	</h2>
-  <ul>
-    <li>Current Wind	10 m/s </li>
-    <li>Current Output	11500 kw </li>
+    <li>Vindstyrke: 10 m/s </li>
+    <li>Production: 115 kw </li>
+    <li>Hastighed ved spidsen: 375 km/t </li>
+    <li>Omdrejninger i minuttet: 20 </li>
     <li>Huse på 100% strøm: 18 </li>
+    <li>Tid på dagen: 06.45 </li>
   </ul>
   <h2>Simulation Status	</h2>
   <ul>
-    <li>Sim Status	Running </li>
-    <li>Current Output	11500 kw </li>
-    <li>Time of Day	06.45 </li>
+    <li id="status">Status: Ikke startet</li>
+    
   </ul>
   <div>
         <canvas id="myChart"></canvas>
